@@ -1,1470 +1,1542 @@
 {
-    "generated_at": "2025-11-20T18:46:09+00:00",
+    "generated_at": "2025-11-20T21:31:28+00:00",
     "hourly_rate": 100,
     "pricing": [
         {
-            "id": 119,
+            "id": 120,
             "code": "10.1.2",
             "col_code": "C",
             "value_hours": "1.00"
         },
         {
-            "id": 120,
+            "id": 121,
             "code": "10.2.2",
             "col_code": "C",
             "value_hours": "1.00"
         },
         {
-            "id": 121,
-            "code": "10.3.1.2",
-            "col_code": "B",
-            "value_hours": "0.50"
-        },
-        {
             "id": 122,
             "code": "10.3.1.2",
-            "col_code": "C",
+            "col_code": "B",
             "value_hours": "0.50"
         },
         {
             "id": 123,
-            "code": "10.3.1.3",
-            "col_code": "B",
+            "code": "10.3.1.2",
+            "col_code": "C",
             "value_hours": "0.50"
         },
         {
             "id": 124,
             "code": "10.3.1.3",
-            "col_code": "C",
+            "col_code": "B",
             "value_hours": "0.50"
         },
         {
             "id": 125,
             "code": "10.3.1.3",
+            "col_code": "C",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 126,
+            "code": "10.3.1.3",
             "col_code": "P1",
             "value_hours": "0.15"
         },
         {
-            "id": 126,
+            "id": 127,
             "code": "10.3.1.3",
             "col_code": "P3",
             "value_hours": "0.25"
         },
         {
-            "id": 127,
+            "id": 128,
             "code": "10.3.1.3",
             "col_code": "P6",
             "value_hours": "0.25"
         },
         {
-            "id": 128,
+            "id": 129,
             "code": "10.3.1.4",
             "col_code": "B",
             "value_hours": "0.75"
         },
         {
-            "id": 129,
+            "id": 130,
             "code": "10.3.1.4",
             "col_code": "C",
             "value_hours": "0.50"
         },
         {
-            "id": 130,
+            "id": 131,
             "code": "10.3.1.4",
             "col_code": "P1",
             "value_hours": "0.15"
         },
         {
-            "id": 131,
+            "id": 132,
             "code": "10.3.1.4",
             "col_code": "P3",
             "value_hours": "0.25"
         },
         {
-            "id": 132,
+            "id": 133,
             "code": "10.3.1.4",
             "col_code": "P6",
             "value_hours": "0.25"
         },
         {
-            "id": 133,
+            "id": 134,
             "code": "10.3.2.2",
             "col_code": "C",
             "value_hours": "1.00"
         },
         {
-            "id": 134,
+            "id": 135,
             "code": "10.3.2.3",
             "col_code": "C",
             "value_hours": "2.00"
         },
         {
-            "id": 135,
+            "id": 136,
             "code": "10.3.2.3",
             "col_code": "P1",
             "value_hours": "0.15"
         },
         {
-            "id": 136,
+            "id": 137,
             "code": "10.3.2.3",
             "col_code": "P3",
             "value_hours": "0.50"
         },
         {
-            "id": 137,
+            "id": 138,
             "code": "10.3.2.3",
             "col_code": "P6",
             "value_hours": "0.75"
         },
         {
-            "id": 138,
+            "id": 139,
             "code": "10.3.2.4",
             "col_code": "C",
             "value_hours": "3.00"
         },
         {
-            "id": 139,
+            "id": 140,
             "code": "10.3.2.4",
             "col_code": "P1",
             "value_hours": "0.15"
         },
         {
-            "id": 140,
+            "id": 141,
             "code": "10.3.2.4",
             "col_code": "P3",
             "value_hours": "0.50"
         },
         {
-            "id": 141,
+            "id": 142,
             "code": "10.3.2.4",
             "col_code": "P6",
             "value_hours": "0.75"
         },
         {
-            "id": 142,
+            "id": 143,
             "code": "10.4.1",
             "col_code": "C",
             "value_hours": "1.00"
         },
         {
-            "id": 143,
+            "id": 144,
             "code": "10.4.1",
             "col_code": "P3",
             "value_hours": "0.15"
         },
         {
-            "id": 144,
+            "id": 145,
             "code": "10.4.2",
             "col_code": "C",
             "value_hours": "0.25"
         },
         {
-            "id": 147,
+            "id": 148,
             "code": "10.4.2",
             "col_code": "P11",
             "value_hours": "0.25"
         },
         {
-            "id": 145,
+            "id": 146,
             "code": "10.4.2",
             "col_code": "P3",
             "value_hours": "0.15"
         },
         {
-            "id": 146,
+            "id": 147,
             "code": "10.4.2",
             "col_code": "P6",
             "value_hours": "0.15"
         },
         {
-            "id": 148,
+            "id": 149,
             "code": "10.4.3",
             "col_code": "C",
             "value_hours": "0.35"
         },
         {
-            "id": 151,
+            "id": 152,
             "code": "10.4.3",
             "col_code": "P11",
             "value_hours": "0.25"
         },
         {
-            "id": 149,
+            "id": 150,
             "code": "10.4.3",
             "col_code": "P3",
             "value_hours": "0.15"
         },
         {
-            "id": 150,
+            "id": 151,
             "code": "10.4.3",
             "col_code": "P6",
             "value_hours": "0.15"
         },
         {
-            "id": 152,
+            "id": 153,
             "code": "10.4.4",
             "col_code": "C",
             "value_hours": "0.50"
-        },
-        {
-            "id": 153,
-            "code": "10.4.4",
-            "col_code": "P11",
-            "value_hours": "0.25"
         },
         {
             "id": 154,
-            "code": "10.4.5",
-            "col_code": "C",
-            "value_hours": "0.50"
+            "code": "10.4.4",
+            "col_code": "P11",
+            "value_hours": "0.25"
         },
         {
             "id": 155,
             "code": "10.4.5",
-            "col_code": "P11",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 156,
-            "code": "10.4.6",
             "col_code": "C",
             "value_hours": "0.50"
         },
         {
-            "id": 159,
-            "code": "10.4.6",
+            "id": 156,
+            "code": "10.4.5",
             "col_code": "P11",
             "value_hours": "0.25"
         },
         {
             "id": 157,
             "code": "10.4.6",
+            "col_code": "C",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 160,
+            "code": "10.4.6",
+            "col_code": "P11",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 158,
+            "code": "10.4.6",
             "col_code": "P3",
             "value_hours": "0.15"
         },
         {
-            "id": 158,
+            "id": 159,
             "code": "10.4.6",
             "col_code": "P6",
             "value_hours": "0.15"
         },
         {
-            "id": 160,
+            "id": 161,
             "code": "11.1.1",
             "col_code": "P1",
             "value_hours": "0.25"
-        },
-        {
-            "id": 161,
-            "code": "11.1.1",
-            "col_code": "P11",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 162,
-            "code": "11.1.1",
-            "col_code": "P12",
-            "value_hours": "0.50"
-        },
-        {
-            "id": 163,
-            "code": "11.1.1",
-            "col_code": "P3",
-            "value_hours": "0.15"
         },
         {
             "id": 164,
             "code": "11.1.1",
-            "col_code": "P6",
-            "value_hours": "0.15"
-        },
-        {
-            "id": 165,
-            "code": "11.1.2",
-            "col_code": "P1",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 166,
-            "code": "11.1.2",
             "col_code": "P11",
             "value_hours": "0.25"
         },
         {
-            "id": 167,
-            "code": "11.1.2",
+            "id": 165,
+            "code": "11.1.1",
             "col_code": "P12",
             "value_hours": "0.50"
         },
         {
-            "id": 168,
-            "code": "11.1.2",
-            "col_code": "P2",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 169,
-            "code": "11.1.2",
+            "id": 162,
+            "code": "11.1.1",
             "col_code": "P3",
             "value_hours": "0.15"
         },
         {
-            "id": 170,
-            "code": "11.1.2",
+            "id": 163,
+            "code": "11.1.1",
             "col_code": "P6",
             "value_hours": "0.15"
         },
         {
+            "id": 166,
+            "code": "11.1.1.2",
+            "col_code": "C",
+            "value_hours": "0.35"
+        },
+        {
+            "id": 167,
+            "code": "11.1.1.3",
+            "col_code": "C",
+            "value_hours": "0.35"
+        },
+        {
+            "id": 168,
+            "code": "11.1.1.4",
+            "col_code": "C",
+            "value_hours": "0.35"
+        },
+        {
+            "id": 169,
+            "code": "11.1.1.5",
+            "col_code": "A",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 170,
+            "code": "11.1.1.5",
+            "col_code": "B",
+            "value_hours": "0.35"
+        },
+        {
             "id": 171,
-            "code": "11.1.3",
+            "code": "11.1.1.5",
             "col_code": "P1",
             "value_hours": "0.25"
         },
         {
             "id": 172,
-            "code": "11.1.3",
-            "col_code": "P11",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 173,
-            "code": "11.1.3",
-            "col_code": "P12",
-            "value_hours": "0.50"
-        },
-        {
-            "id": 174,
-            "code": "11.1.3",
-            "col_code": "P4",
+            "code": "11.1.1.6",
+            "col_code": "C",
             "value_hours": "1.00"
         },
         {
+            "id": 173,
+            "code": "11.1.1.6",
+            "col_code": "P1",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 174,
+            "code": "11.1.1.7",
+            "col_code": "C",
+            "value_hours": "0.75"
+        },
+        {
             "id": 175,
-            "code": "11.1.3",
-            "col_code": "P6",
+            "code": "11.1.1.7",
+            "col_code": "P1",
             "value_hours": "0.25"
         },
         {
             "id": 176,
-            "code": "11.2.1",
+            "code": "11.1.1.8",
             "col_code": "C",
-            "value_hours": "0.35"
+            "value_hours": "0.25"
         },
         {
             "id": 177,
-            "code": "11.2.2",
-            "col_code": "C",
-            "value_hours": "0.35"
+            "code": "11.1.1.8",
+            "col_code": "P1",
+            "value_hours": "0.25"
         },
         {
             "id": 178,
-            "code": "11.2.3",
-            "col_code": "C",
-            "value_hours": "0.35"
-        },
-        {
-            "id": 179,
-            "code": "11.2.4",
-            "col_code": "C",
-            "value_hours": "1.25"
-        },
-        {
-            "id": 180,
-            "code": "11.2.4",
+            "code": "11.1.2",
             "col_code": "P1",
             "value_hours": "0.25"
         },
         {
             "id": 182,
-            "code": "11.2.4",
+            "code": "11.1.2",
             "col_code": "P11",
             "value_hours": "0.25"
         },
         {
             "id": 183,
-            "code": "11.2.4",
+            "code": "11.1.2",
             "col_code": "P12",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 179,
+            "code": "11.1.2",
+            "col_code": "P2",
             "value_hours": "0.25"
         },
         {
-            "id": 184,
-            "code": "11.2.4",
-            "col_code": "P13",
-            "value_hours": "0.25"
+            "id": 180,
+            "code": "11.1.2",
+            "col_code": "P3",
+            "value_hours": "0.15"
         },
         {
             "id": 181,
-            "code": "11.2.4",
-            "col_code": "P7",
-            "value_hours": "1.50"
+            "code": "11.1.2",
+            "col_code": "P6",
+            "value_hours": "0.15"
+        },
+        {
+            "id": 184,
+            "code": "11.1.2.1",
+            "col_code": "C",
+            "value_hours": "0.25"
         },
         {
             "id": 185,
-            "code": "11.2.5",
-            "col_code": "P1",
-            "value_hours": "0.10"
+            "code": "11.1.2.2",
+            "col_code": "C",
+            "value_hours": "0.50"
         },
         {
             "id": 186,
-            "code": "11.2.5",
-            "col_code": "P3",
-            "value_hours": "0.15"
+            "code": "11.1.2.3",
+            "col_code": "C",
+            "value_hours": "0.50"
         },
         {
             "id": 187,
-            "code": "11.2.6",
+            "code": "11.1.2.4",
             "col_code": "C",
-            "value_hours": "1.00"
+            "value_hours": "0.50"
         },
         {
             "id": 188,
-            "code": "11.2.6",
-            "col_code": "P1",
-            "value_hours": "0.10"
+            "code": "11.1.2.5",
+            "col_code": "A",
+            "value_hours": "0.25"
         },
         {
             "id": 189,
-            "code": "11.2.6",
-            "col_code": "P3",
-            "value_hours": "0.15"
+            "code": "11.1.2.5",
+            "col_code": "B",
+            "value_hours": "0.35"
         },
         {
             "id": 190,
-            "code": "11.2.6.1",
-            "col_code": "C",
-            "value_hours": "1.50"
+            "code": "11.1.2.5",
+            "col_code": "P1",
+            "value_hours": "0.25"
         },
         {
             "id": 191,
-            "code": "11.2.6.1",
-            "col_code": "P1",
-            "value_hours": "0.25"
+            "code": "11.1.2.6",
+            "col_code": "C",
+            "value_hours": "1.00"
         },
         {
             "id": 192,
-            "code": "11.2.6.1",
-            "col_code": "P4",
-            "value_hours": "0.50"
+            "code": "11.1.2.6",
+            "col_code": "P1",
+            "value_hours": "0.25"
         },
         {
             "id": 193,
-            "code": "11.2.6.1",
-            "col_code": "P5",
-            "value_hours": "0.25"
+            "code": "11.1.2.7",
+            "col_code": "C",
+            "value_hours": "0.75"
         },
         {
             "id": 194,
-            "code": "11.2.7",
+            "code": "11.1.2.7",
             "col_code": "P1",
-            "value_hours": "0.10"
-        },
-        {
-            "id": 198,
-            "code": "11.2.7",
-            "col_code": "P11",
             "value_hours": "0.25"
-        },
-        {
-            "id": 199,
-            "code": "11.2.7",
-            "col_code": "P13",
-            "value_hours": "0.50"
         },
         {
             "id": 195,
-            "code": "11.2.7",
-            "col_code": "P3",
-            "value_hours": "0.15"
+            "code": "11.1.2.8",
+            "col_code": "C",
+            "value_hours": "0.25"
         },
         {
             "id": 196,
-            "code": "11.2.7",
-            "col_code": "P5",
-            "value_hours": "1.00"
+            "code": "11.1.2.8",
+            "col_code": "P1",
+            "value_hours": "0.25"
         },
         {
             "id": 197,
-            "code": "11.2.7",
-            "col_code": "P6",
-            "value_hours": "0.50"
+            "code": "11.1.3",
+            "col_code": "P1",
+            "value_hours": "0.25"
         },
         {
             "id": 200,
-            "code": "11.2.7.1",
-            "col_code": "C",
-            "value_hours": "0.75"
-        },
-        {
-            "id": 201,
-            "code": "11.2.7.2",
-            "col_code": "C",
-            "value_hours": "1.50"
-        },
-        {
-            "id": 202,
-            "code": "11.2.7.3",
-            "col_code": "C",
-            "value_hours": "0.75"
-        },
-        {
-            "id": 203,
-            "code": "11.3.1.2",
-            "col_code": "C",
-            "value_hours": "3.00"
-        },
-        {
-            "id": 204,
-            "code": "11.3.1.3",
-            "col_code": "C",
-            "value_hours": "1.00"
-        },
-        {
-            "id": 356,
-            "code": "11.3.2",
-            "col_code": "C",
-            "value_hours": "5.00"
-        },
-        {
-            "id": 357,
-            "code": "11.3.2",
-            "col_code": "P1",
-            "value_hours": "0.50"
-        },
-        {
-            "id": 361,
-            "code": "11.3.2",
-            "col_code": "P10",
-            "value_hours": "1.50"
-        },
-        {
-            "id": 362,
-            "code": "11.3.2",
+            "code": "11.1.3",
             "col_code": "P11",
             "value_hours": "0.25"
         },
         {
-            "id": 358,
-            "code": "11.3.2",
-            "col_code": "P3",
+            "id": 201,
+            "code": "11.1.3",
+            "col_code": "P12",
             "value_hours": "0.50"
         },
         {
-            "id": 359,
-            "code": "11.3.2",
-            "col_code": "P5",
-            "value_hours": "0.75"
+            "id": 198,
+            "code": "11.1.3",
+            "col_code": "P4",
+            "value_hours": "1.00"
         },
         {
-            "id": 360,
-            "code": "11.3.2",
+            "id": 199,
+            "code": "11.1.3",
             "col_code": "P6",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 202,
+            "code": "11.1.3.1",
+            "col_code": "C",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 203,
+            "code": "11.1.3.2",
+            "col_code": "C",
+            "value_hours": "1.00"
+        },
+        {
+            "id": 204,
+            "code": "11.1.3.3",
+            "col_code": "C",
             "value_hours": "1.00"
         },
         {
             "id": 205,
-            "code": "11.3.2.1",
+            "code": "11.1.3.4",
             "col_code": "C",
-            "value_hours": "0.75"
+            "value_hours": "0.50"
         },
         {
             "id": 206,
-            "code": "11.3.2.1",
+            "code": "11.1.3.5",
+            "col_code": "A",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 207,
+            "code": "11.1.3.5",
+            "col_code": "B",
+            "value_hours": "0.35"
+        },
+        {
+            "id": 208,
+            "code": "11.1.3.5",
             "col_code": "P1",
             "value_hours": "0.25"
         },
         {
             "id": 209,
-            "code": "11.3.2.1",
-            "col_code": "P10",
+            "code": "11.1.3.6",
+            "col_code": "C",
             "value_hours": "1.00"
         },
         {
             "id": 210,
-            "code": "11.3.2.1",
-            "col_code": "P11",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 207,
-            "code": "11.3.2.1",
-            "col_code": "P3",
-            "value_hours": "0.15"
-        },
-        {
-            "id": 208,
-            "code": "11.3.2.1",
-            "col_code": "P6",
-            "value_hours": "0.15"
-        },
-        {
-            "id": 211,
-            "code": "11.3.2.2",
-            "col_code": "C",
-            "value_hours": "0.35"
-        },
-        {
-            "id": 212,
-            "code": "11.3.2.2",
+            "code": "11.1.3.6",
             "col_code": "P1",
             "value_hours": "0.25"
         },
         {
-            "id": 215,
-            "code": "11.3.2.2",
-            "col_code": "P10",
-            "value_hours": "1.00"
+            "id": 211,
+            "code": "11.1.3.6",
+            "col_code": "P4",
+            "value_hours": "0.50"
         },
         {
-            "id": 216,
-            "code": "11.3.2.2",
-            "col_code": "P11",
-            "value_hours": "0.25"
+            "id": 212,
+            "code": "11.1.3.7",
+            "col_code": "C",
+            "value_hours": "0.75"
         },
         {
             "id": 213,
-            "code": "11.3.2.2",
-            "col_code": "P3",
-            "value_hours": "0.15"
+            "code": "11.1.3.7",
+            "col_code": "P1",
+            "value_hours": "0.25"
         },
         {
             "id": 214,
-            "code": "11.3.2.2",
-            "col_code": "P6",
-            "value_hours": "0.15"
+            "code": "11.1.3.7",
+            "col_code": "P4",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 215,
+            "code": "11.1.3.8",
+            "col_code": "C",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 216,
+            "code": "11.1.3.8",
+            "col_code": "P1",
+            "value_hours": "0.25"
         },
         {
             "id": 217,
-            "code": "11.3.2.3",
+            "code": "11.2.1",
             "col_code": "C",
             "value_hours": "1.50"
         },
         {
             "id": 218,
-            "code": "11.3.2.3",
+            "code": "11.2.1",
             "col_code": "P1",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 221,
-            "code": "11.3.2.3",
-            "col_code": "P10",
-            "value_hours": "1.00"
-        },
-        {
-            "id": 222,
-            "code": "11.3.2.3",
-            "col_code": "P11",
             "value_hours": "0.25"
         },
         {
             "id": 219,
-            "code": "11.3.2.3",
+            "code": "11.2.1",
             "col_code": "P3",
-            "value_hours": "0.15"
+            "value_hours": "0.25"
         },
         {
             "id": 220,
-            "code": "11.3.2.3",
-            "col_code": "P6",
-            "value_hours": "0.15"
-        },
-        {
-            "id": 223,
-            "code": "11.3.2.4",
-            "col_code": "C",
+            "code": "11.2.1",
+            "col_code": "P5",
             "value_hours": "0.50"
         },
         {
-            "id": 224,
-            "code": "11.3.2.4",
+            "id": 221,
+            "code": "11.2.2",
+            "col_code": "C",
+            "value_hours": "1.50"
+        },
+        {
+            "id": 222,
+            "code": "11.2.2",
             "col_code": "P1",
             "value_hours": "0.25"
         },
         {
-            "id": 227,
-            "code": "11.3.2.4",
-            "col_code": "P10",
-            "value_hours": "1.50"
-        },
-        {
-            "id": 228,
-            "code": "11.3.2.4",
-            "col_code": "P11",
+            "id": 223,
+            "code": "11.2.2",
+            "col_code": "P3",
             "value_hours": "0.25"
         },
         {
+            "id": 224,
+            "code": "11.2.2",
+            "col_code": "P5",
+            "value_hours": "0.50"
+        },
+        {
             "id": 225,
-            "code": "11.3.2.4",
+            "code": "11.2.3",
+            "col_code": "C",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 226,
+            "code": "11.2.3",
+            "col_code": "P1",
+            "value_hours": "0.15"
+        },
+        {
+            "id": 227,
+            "code": "11.2.3",
             "col_code": "P3",
             "value_hours": "0.15"
         },
         {
-            "id": 226,
-            "code": "11.3.2.4",
-            "col_code": "P6",
-            "value_hours": "0.15"
+            "id": 228,
+            "code": "11.2.4",
+            "col_code": "C",
+            "value_hours": "1.25"
         },
         {
             "id": 229,
-            "code": "11.3.2.5",
-            "col_code": "C",
-            "value_hours": "1.50"
-        },
-        {
-            "id": 230,
-            "code": "11.3.2.5",
+            "code": "11.2.4",
             "col_code": "P1",
-            "value_hours": "0.50"
-        },
-        {
-            "id": 233,
-            "code": "11.3.2.5",
-            "col_code": "P10",
-            "value_hours": "2.00"
-        },
-        {
-            "id": 234,
-            "code": "11.3.2.5",
-            "col_code": "P11",
             "value_hours": "0.25"
         },
         {
             "id": 231,
-            "code": "11.3.2.5",
-            "col_code": "P3",
+            "code": "11.2.4",
+            "col_code": "P11",
             "value_hours": "0.25"
         },
         {
             "id": 232,
-            "code": "11.3.2.5",
-            "col_code": "P6",
+            "code": "11.2.4",
+            "col_code": "P12",
             "value_hours": "0.25"
         },
         {
+            "id": 233,
+            "code": "11.2.4",
+            "col_code": "P13",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 230,
+            "code": "11.2.4",
+            "col_code": "P7",
+            "value_hours": "1.50"
+        },
+        {
+            "id": 234,
+            "code": "11.2.5",
+            "col_code": "P1",
+            "value_hours": "0.10"
+        },
+        {
             "id": 235,
+            "code": "11.2.5",
+            "col_code": "P3",
+            "value_hours": "0.15"
+        },
+        {
+            "id": 236,
+            "code": "11.2.6",
+            "col_code": "C",
+            "value_hours": "1.00"
+        },
+        {
+            "id": 237,
+            "code": "11.2.6",
+            "col_code": "P1",
+            "value_hours": "0.10"
+        },
+        {
+            "id": 238,
+            "code": "11.2.6",
+            "col_code": "P3",
+            "value_hours": "0.15"
+        },
+        {
+            "id": 239,
+            "code": "11.2.6.1",
+            "col_code": "C",
+            "value_hours": "1.50"
+        },
+        {
+            "id": 240,
+            "code": "11.2.7",
+            "col_code": "P1",
+            "value_hours": "0.10"
+        },
+        {
+            "id": 242,
+            "code": "11.2.7",
+            "col_code": "P13",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 241,
+            "code": "11.2.7",
+            "col_code": "P3",
+            "value_hours": "0.15"
+        },
+        {
+            "id": 243,
+            "code": "11.2.7.1",
+            "col_code": "C",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 244,
+            "code": "11.2.7.2",
+            "col_code": "C",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 245,
+            "code": "11.2.7.3",
+            "col_code": "C",
+            "value_hours": "0.75"
+        },
+        {
+            "id": 246,
+            "code": "11.3.1",
+            "col_code": "A",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 247,
+            "code": "11.3.1",
+            "col_code": "B",
+            "value_hours": "2.00"
+        },
+        {
+            "id": 248,
+            "code": "11.3.1",
+            "col_code": "C",
+            "value_hours": "1.00"
+        },
+        {
+            "id": 249,
+            "code": "11.3.1",
+            "col_code": "P1",
+            "value_hours": "0.35"
+        },
+        {
+            "id": 253,
+            "code": "11.3.1",
+            "col_code": "P11",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 250,
+            "code": "11.3.1",
+            "col_code": "P3",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 251,
+            "code": "11.3.1",
+            "col_code": "P5",
+            "value_hours": "0.75"
+        },
+        {
+            "id": 252,
+            "code": "11.3.1",
+            "col_code": "P6",
+            "value_hours": "0.15"
+        },
+        {
+            "id": 254,
+            "code": "11.3.1.2",
+            "col_code": "C",
+            "value_hours": "3.00"
+        },
+        {
+            "id": 255,
+            "code": "11.3.1.3",
+            "col_code": "C",
+            "value_hours": "1.00"
+        },
+        {
+            "id": 256,
+            "code": "11.3.2",
+            "col_code": "C",
+            "value_hours": "5.00"
+        },
+        {
+            "id": 257,
+            "code": "11.3.2",
+            "col_code": "P1",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 261,
+            "code": "11.3.2",
+            "col_code": "P10",
+            "value_hours": "1.50"
+        },
+        {
+            "id": 262,
+            "code": "11.3.2",
+            "col_code": "P11",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 258,
+            "code": "11.3.2",
+            "col_code": "P3",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 259,
+            "code": "11.3.2",
+            "col_code": "P5",
+            "value_hours": "0.75"
+        },
+        {
+            "id": 260,
+            "code": "11.3.2",
+            "col_code": "P6",
+            "value_hours": "1.00"
+        },
+        {
+            "id": 263,
+            "code": "11.3.2.1",
+            "col_code": "C",
+            "value_hours": "0.75"
+        },
+        {
+            "id": 264,
+            "code": "11.3.2.2",
+            "col_code": "C",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 265,
+            "code": "11.3.2.3",
+            "col_code": "C",
+            "value_hours": "1.50"
+        },
+        {
+            "id": 266,
+            "code": "11.3.2.4",
+            "col_code": "C",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 267,
+            "code": "11.3.2.5",
+            "col_code": "C",
+            "value_hours": "1.50"
+        },
+        {
+            "id": 268,
             "code": "11.3.2.6",
             "col_code": "C",
             "value_hours": "0.25"
         },
         {
-            "id": 236,
-            "code": "11.3.2.6",
-            "col_code": "P1",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 239,
-            "code": "11.3.2.6",
-            "col_code": "P10",
-            "value_hours": "1.50"
-        },
-        {
-            "id": 240,
-            "code": "11.3.2.6",
-            "col_code": "P11",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 237,
-            "code": "11.3.2.6",
-            "col_code": "P3",
-            "value_hours": "0.15"
-        },
-        {
-            "id": 238,
-            "code": "11.3.2.6",
-            "col_code": "P6",
-            "value_hours": "0.15"
-        },
-        {
-            "id": 241,
+            "id": 269,
             "code": "11.3.2.7",
             "col_code": "C",
             "value_hours": "2.00"
         },
         {
-            "id": 242,
-            "code": "11.3.2.7",
-            "col_code": "P1",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 245,
-            "code": "11.3.2.7",
-            "col_code": "P10",
-            "value_hours": "1.50"
-        },
-        {
-            "id": 246,
-            "code": "11.3.2.7",
-            "col_code": "P11",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 243,
-            "code": "11.3.2.7",
-            "col_code": "P3",
-            "value_hours": "0.15"
-        },
-        {
-            "id": 244,
-            "code": "11.3.2.7",
-            "col_code": "P6",
-            "value_hours": "0.15"
-        },
-        {
-            "id": 247,
+            "id": 270,
             "code": "11.3.2.8",
             "col_code": "C",
             "value_hours": "1.00"
         },
         {
-            "id": 248,
-            "code": "11.3.2.8",
-            "col_code": "P1",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 251,
-            "code": "11.3.2.8",
-            "col_code": "P10",
-            "value_hours": "1.50"
-        },
-        {
-            "id": 252,
-            "code": "11.3.2.8",
-            "col_code": "P11",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 249,
-            "code": "11.3.2.8",
-            "col_code": "P3",
-            "value_hours": "0.15"
-        },
-        {
-            "id": 250,
-            "code": "11.3.2.8",
-            "col_code": "P6",
-            "value_hours": "0.15"
-        },
-        {
-            "id": 253,
+            "id": 271,
             "code": "11.3.3",
             "col_code": "A",
             "value_hours": "0.25"
         },
         {
-            "id": 254,
-            "code": "11.3.3",
-            "col_code": "C",
-            "value_hours": "0.75"
-        },
-        {
-            "id": 255,
-            "code": "11.3.3",
-            "col_code": "P1",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 258,
-            "code": "11.3.3",
-            "col_code": "P11",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 256,
-            "code": "11.3.3",
-            "col_code": "P3",
-            "value_hours": "0.15"
-        },
-        {
-            "id": 257,
-            "code": "11.3.3",
-            "col_code": "P6",
-            "value_hours": "0.15"
-        },
-        {
-            "id": 259,
-            "code": "11.3.4",
-            "col_code": "C",
-            "value_hours": "2.00"
-        },
-        {
-            "id": 260,
-            "code": "11.3.4",
-            "col_code": "P1",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 263,
-            "code": "11.3.4",
-            "col_code": "P10",
-            "value_hours": "1.50"
-        },
-        {
-            "id": 264,
-            "code": "11.3.4",
-            "col_code": "P11",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 261,
-            "code": "11.3.4",
-            "col_code": "P3",
-            "value_hours": "0.15"
-        },
-        {
-            "id": 262,
-            "code": "11.3.4",
-            "col_code": "P6",
-            "value_hours": "0.15"
-        },
-        {
-            "id": 265,
-            "code": "11.3.5",
-            "col_code": "C",
-            "value_hours": "0.50"
-        },
-        {
-            "id": 266,
-            "code": "11.3.5",
-            "col_code": "P1",
-            "value_hours": "0.15"
-        },
-        {
-            "id": 267,
-            "code": "11.3.5",
-            "col_code": "P11",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 268,
-            "code": "11.3.5.1",
-            "col_code": "C",
-            "value_hours": "0.75"
-        },
-        {
-            "id": 269,
-            "code": "11.3.5.2",
-            "col_code": "C",
-            "value_hours": "1.50"
-        },
-        {
-            "id": 270,
-            "code": "11.3.5.3",
-            "col_code": "C",
-            "value_hours": "0.40"
-        },
-        {
-            "id": 271,
-            "code": "11.3.6",
-            "col_code": "C",
-            "value_hours": "0.75"
-        },
-        {
             "id": 272,
-            "code": "11.3.6",
-            "col_code": "P1",
-            "value_hours": "0.15"
+            "code": "11.3.3",
+            "col_code": "C",
+            "value_hours": "0.75"
         },
         {
             "id": 273,
-            "code": "11.3.6",
+            "code": "11.3.3",
+            "col_code": "P1",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 276,
+            "code": "11.3.3",
             "col_code": "P11",
             "value_hours": "0.25"
         },
         {
             "id": 274,
-            "code": "12.1.1",
-            "col_code": "P1",
-            "value_hours": "0.10"
+            "code": "11.3.3",
+            "col_code": "P3",
+            "value_hours": "0.15"
         },
         {
             "id": 275,
-            "code": "12.1.1",
-            "col_code": "P11",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 276,
-            "code": "12.1.1",
-            "col_code": "P12",
-            "value_hours": "0.50"
+            "code": "11.3.3",
+            "col_code": "P6",
+            "value_hours": "0.15"
         },
         {
             "id": 277,
-            "code": "12.1.1.1",
-            "col_code": "P1",
-            "value_hours": "0.10"
+            "code": "11.3.4",
+            "col_code": "C",
+            "value_hours": "2.00"
         },
         {
             "id": 278,
-            "code": "12.1.1.1",
+            "code": "11.3.4",
+            "col_code": "P1",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 281,
+            "code": "11.3.4",
+            "col_code": "P10",
+            "value_hours": "1.50"
+        },
+        {
+            "id": 282,
+            "code": "11.3.4",
             "col_code": "P11",
             "value_hours": "0.25"
         },
         {
             "id": 279,
-            "code": "12.1.1.1",
-            "col_code": "P12",
-            "value_hours": "0.50"
-        },
-        {
-            "id": 280,
-            "code": "12.1.1.2",
-            "col_code": "C",
-            "value_hours": "0.75"
-        },
-        {
-            "id": 281,
-            "code": "12.1.1.2",
-            "col_code": "P8",
-            "value_hours": "3.50"
-        },
-        {
-            "id": 295,
-            "code": "12.1.10",
-            "col_code": "C",
-            "value_hours": "1.00"
-        },
-        {
-            "id": 296,
-            "code": "12.1.11",
-            "col_code": "C",
+            "code": "11.3.4",
+            "col_code": "P3",
             "value_hours": "0.15"
         },
         {
-            "id": 297,
-            "code": "12.1.12",
-            "col_code": "C",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 298,
-            "code": "12.1.13",
-            "col_code": "C",
-            "value_hours": "0.75"
-        },
-        {
-            "id": 282,
-            "code": "12.1.2",
-            "col_code": "C",
-            "value_hours": "0.75"
+            "id": 280,
+            "code": "11.3.4",
+            "col_code": "P6",
+            "value_hours": "0.15"
         },
         {
             "id": 283,
-            "code": "12.1.2",
-            "col_code": "P1",
-            "value_hours": "0.25"
+            "code": "11.3.5",
+            "col_code": "C",
+            "value_hours": "0.50"
         },
         {
             "id": 284,
-            "code": "12.1.2",
+            "code": "11.3.5",
+            "col_code": "P1",
+            "value_hours": "0.15"
+        },
+        {
+            "id": 285,
+            "code": "11.3.5",
             "col_code": "P11",
             "value_hours": "0.25"
         },
         {
-            "id": 285,
-            "code": "12.1.2",
-            "col_code": "P12",
-            "value_hours": "0.25"
-        },
-        {
             "id": 286,
-            "code": "12.1.3",
+            "code": "11.3.5.1",
             "col_code": "C",
-            "value_hours": "0.50"
+            "value_hours": "0.75"
         },
         {
             "id": 287,
-            "code": "12.1.4",
+            "code": "11.3.5.2",
+            "col_code": "C",
+            "value_hours": "1.00"
+        },
+        {
+            "id": 288,
+            "code": "11.3.5.3",
+            "col_code": "C",
+            "value_hours": "0.40"
+        },
+        {
+            "id": 289,
+            "code": "11.3.6",
+            "col_code": "C",
+            "value_hours": "0.75"
+        },
+        {
+            "id": 290,
+            "code": "11.3.6",
+            "col_code": "P1",
+            "value_hours": "0.15"
+        },
+        {
+            "id": 291,
+            "code": "11.3.6",
+            "col_code": "P11",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 292,
+            "code": "12.1",
+            "col_code": "P1",
+            "value_hours": "0.10"
+        },
+        {
+            "id": 293,
+            "code": "12.1",
+            "col_code": "P11",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 294,
+            "code": "12.1",
+            "col_code": "P12",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 295,
+            "code": "12.1.1",
+            "col_code": "B",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 296,
+            "code": "12.1.1.1",
             "col_code": "C",
             "value_hours": "0.25"
         },
         {
-            "id": 288,
-            "code": "12.1.5",
+            "id": 297,
+            "code": "12.1.1.2",
             "col_code": "C",
             "value_hours": "0.50"
         },
         {
-            "id": 289,
-            "code": "12.1.5",
-            "col_code": "P13",
-            "value_hours": "0.35"
-        },
-        {
-            "id": 290,
-            "code": "12.1.6",
+            "id": 298,
+            "code": "12.1.2",
             "col_code": "C",
             "value_hours": "0.75"
-        },
-        {
-            "id": 291,
-            "code": "12.1.6",
-            "col_code": "P13",
-            "value_hours": "0.35"
-        },
-        {
-            "id": 292,
-            "code": "12.1.8",
-            "col_code": "C",
-            "value_hours": "0.75"
-        },
-        {
-            "id": 293,
-            "code": "12.1.8",
-            "col_code": "P13",
-            "value_hours": "0.35"
-        },
-        {
-            "id": 294,
-            "code": "12.1.9",
-            "col_code": "C",
-            "value_hours": "0.15"
         },
         {
             "id": 299,
+            "code": "12.1.2",
+            "col_code": "P8",
+            "value_hours": "3.50"
+        },
+        {
+            "id": 300,
             "code": "12.2",
             "col_code": "C",
             "value_hours": "3.00"
         },
         {
-            "id": 300,
+            "id": 301,
             "code": "12.2",
             "col_code": "P1",
             "value_hours": "0.50"
         },
         {
-            "id": 305,
+            "id": 306,
             "code": "12.2",
             "col_code": "P11",
             "value_hours": "0.25"
         },
         {
-            "id": 306,
+            "id": 307,
             "code": "12.2",
             "col_code": "P12",
             "value_hours": "0.75"
         },
         {
-            "id": 301,
+            "id": 302,
             "code": "12.2",
             "col_code": "P3",
             "value_hours": "0.50"
         },
         {
-            "id": 302,
-            "code": "12.2",
-            "col_code": "P5",
-            "value_hours": "0.75"
-        },
-        {
             "id": 303,
             "code": "12.2",
-            "col_code": "P6",
+            "col_code": "P5",
             "value_hours": "0.75"
         },
         {
             "id": 304,
             "code": "12.2",
+            "col_code": "P6",
+            "value_hours": "0.75"
+        },
+        {
+            "id": 305,
+            "code": "12.2",
             "col_code": "P9",
             "value_hours": "4.00"
         },
         {
-            "id": 307,
-            "code": "12.2.1",
-            "col_code": "C",
-            "value_hours": "0.75"
-        },
-        {
-            "id": 308,
-            "code": "12.2.1",
-            "col_code": "P1",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 309,
-            "code": "12.2.1",
-            "col_code": "P11",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 310,
-            "code": "12.2.1",
-            "col_code": "P12",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 321,
+            "id": 319,
             "code": "12.2.10",
             "col_code": "C",
             "value_hours": "1.00"
         },
         {
-            "id": 322,
+            "id": 320,
             "code": "12.2.11",
             "col_code": "C",
             "value_hours": "0.15"
         },
         {
-            "id": 323,
+            "id": 321,
             "code": "12.2.12",
             "col_code": "C",
             "value_hours": "0.25"
         },
         {
-            "id": 324,
+            "id": 322,
             "code": "12.2.13",
             "col_code": "C",
             "value_hours": "0.75"
         },
         {
-            "id": 311,
+            "id": 323,
+            "code": "12.2.14",
+            "col_code": "C",
+            "value_hours": "1.00"
+        },
+        {
+            "id": 308,
             "code": "12.2.2",
             "col_code": "C",
             "value_hours": "0.50"
         },
         {
-            "id": 312,
+            "id": 309,
             "code": "12.2.3",
             "col_code": "C",
             "value_hours": "0.50"
         },
         {
-            "id": 313,
+            "id": 310,
             "code": "12.2.4",
             "col_code": "C",
             "value_hours": "0.25"
         },
         {
-            "id": 314,
+            "id": 311,
             "code": "12.2.5",
             "col_code": "C",
             "value_hours": "0.50"
         },
         {
-            "id": 315,
+            "id": 312,
             "code": "12.2.5",
             "col_code": "P13",
             "value_hours": "0.35"
         },
         {
-            "id": 316,
+            "id": 313,
             "code": "12.2.6",
+            "col_code": "C",
+            "value_hours": "0.75"
+        },
+        {
+            "id": 314,
+            "code": "12.2.6",
+            "col_code": "P13",
+            "value_hours": "0.35"
+        },
+        {
+            "id": 315,
+            "code": "12.2.7",
+            "col_code": "C",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 316,
+            "code": "12.2.8",
             "col_code": "C",
             "value_hours": "0.75"
         },
         {
             "id": 317,
-            "code": "12.2.6",
+            "code": "12.2.8",
             "col_code": "P13",
             "value_hours": "0.35"
         },
         {
             "id": 318,
-            "code": "12.2.8",
-            "col_code": "C",
-            "value_hours": "0.75"
-        },
-        {
-            "id": 319,
-            "code": "12.2.8",
-            "col_code": "P13",
-            "value_hours": "0.35"
-        },
-        {
-            "id": 320,
             "code": "12.2.9",
             "col_code": "C",
             "value_hours": "0.15"
         },
         {
-            "id": 325,
+            "id": 324,
             "code": "12.3",
             "col_code": "C",
             "value_hours": "3.00"
         },
         {
-            "id": 326,
+            "id": 325,
             "code": "12.3",
             "col_code": "P1",
             "value_hours": "0.50"
         },
         {
-            "id": 331,
+            "id": 330,
             "code": "12.3",
             "col_code": "P11",
             "value_hours": "0.25"
         },
         {
-            "id": 332,
+            "id": 331,
             "code": "12.3",
             "col_code": "P12",
             "value_hours": "0.75"
         },
         {
-            "id": 327,
+            "id": 326,
             "code": "12.3",
             "col_code": "P3",
             "value_hours": "0.50"
         },
         {
-            "id": 328,
+            "id": 327,
             "code": "12.3",
             "col_code": "P5",
+            "value_hours": "0.75"
+        },
+        {
+            "id": 328,
+            "code": "12.3",
+            "col_code": "P6",
             "value_hours": "0.75"
         },
         {
             "id": 329,
             "code": "12.3",
-            "col_code": "P6",
-            "value_hours": "0.75"
-        },
-        {
-            "id": 330,
-            "code": "12.3",
             "col_code": "P9",
             "value_hours": "4.00"
         },
         {
-            "id": 333,
-            "code": "12.3.1",
-            "col_code": "A",
+            "id": 343,
+            "code": "12.3.10",
+            "col_code": "C",
+            "value_hours": "1.00"
+        },
+        {
+            "id": 344,
+            "code": "12.3.11",
+            "col_code": "C",
+            "value_hours": "0.15"
+        },
+        {
+            "id": 345,
+            "code": "12.3.12",
+            "col_code": "C",
             "value_hours": "0.25"
         },
         {
-            "id": 334,
-            "code": "12.3.1",
-            "col_code": "B",
-            "value_hours": "0.50"
+            "id": 346,
+            "code": "12.3.13",
+            "col_code": "C",
+            "value_hours": "0.75"
         },
         {
-            "id": 335,
+            "id": 347,
+            "code": "12.3.14",
+            "col_code": "C",
+            "value_hours": "1.00"
+        },
+        {
+            "id": 332,
             "code": "12.3.2",
             "col_code": "C",
             "value_hours": "0.50"
         },
         {
-            "id": 336,
+            "id": 333,
             "code": "12.3.3",
             "col_code": "C",
             "value_hours": "0.50"
         },
         {
+            "id": 334,
+            "code": "12.3.4",
+            "col_code": "C",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 335,
+            "code": "12.3.5",
+            "col_code": "C",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 336,
+            "code": "12.3.5",
+            "col_code": "P13",
+            "value_hours": "0.35"
+        },
+        {
             "id": 337,
+            "code": "12.3.6",
+            "col_code": "C",
+            "value_hours": "1.00"
+        },
+        {
+            "id": 338,
+            "code": "12.3.6",
+            "col_code": "P13",
+            "value_hours": "0.35"
+        },
+        {
+            "id": 339,
+            "code": "12.3.7",
+            "col_code": "C",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 340,
+            "code": "12.3.8",
+            "col_code": "C",
+            "value_hours": "1.00"
+        },
+        {
+            "id": 341,
+            "code": "12.3.8",
+            "col_code": "P13",
+            "value_hours": "0.35"
+        },
+        {
+            "id": 342,
+            "code": "12.3.9",
+            "col_code": "C",
+            "value_hours": "0.15"
+        },
+        {
+            "id": 348,
             "code": "12.4",
             "col_code": "P1",
             "value_hours": "0.10"
         },
         {
-            "id": 338,
+            "id": 349,
             "code": "12.4",
             "col_code": "P11",
             "value_hours": "0.25"
         },
         {
-            "id": 339,
-            "code": "12.4",
-            "col_code": "P13",
-            "value_hours": "0.35"
-        },
-        {
-            "id": 340,
+            "id": 350,
             "code": "12.4.1",
             "col_code": "A",
             "value_hours": "0.25"
         },
         {
-            "id": 341,
+            "id": 351,
             "code": "12.4.1",
             "col_code": "B",
             "value_hours": "0.50"
         },
         {
-            "id": 342,
+            "id": 352,
             "code": "12.4.2",
             "col_code": "C",
             "value_hours": "1.00"
         },
         {
-            "id": 343,
+            "id": 353,
+            "code": "12.4.3",
+            "col_code": "C",
+            "value_hours": "3.50"
+        },
+        {
+            "id": 354,
             "code": "12.5",
+            "col_code": "P1",
+            "value_hours": "0.10"
+        },
+        {
+            "id": 355,
+            "code": "12.5",
+            "col_code": "P11",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 356,
+            "code": "12.5",
+            "col_code": "P13",
+            "value_hours": "0.35"
+        },
+        {
+            "id": 357,
+            "code": "12.5.1",
+            "col_code": "A",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 358,
+            "code": "12.5.1",
+            "col_code": "B",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 359,
+            "code": "12.5.2",
+            "col_code": "C",
+            "value_hours": "1.00"
+        },
+        {
+            "id": 360,
+            "code": "12.6",
             "col_code": "C",
             "value_hours": "0.50"
         },
         {
-            "id": 344,
+            "id": 361,
             "code": "13.1",
             "col_code": "P1",
             "value_hours": "0.25"
         },
         {
-            "id": 347,
+            "id": 364,
             "code": "13.1",
             "col_code": "P11",
             "value_hours": "0.25"
         },
         {
-            "id": 348,
+            "id": 365,
             "code": "13.1",
             "col_code": "P13",
             "value_hours": "0.25"
         },
         {
-            "id": 345,
+            "id": 362,
             "code": "13.1",
             "col_code": "P5",
             "value_hours": "1.00"
         },
         {
-            "id": 346,
+            "id": 363,
             "code": "13.1",
             "col_code": "P6",
             "value_hours": "0.50"
         },
         {
-            "id": 349,
+            "id": 366,
             "code": "13.1.1",
             "col_code": "A",
             "value_hours": "0.25"
         },
         {
-            "id": 350,
+            "id": 367,
             "code": "13.1.1",
             "col_code": "B",
             "value_hours": "1.00"
         },
         {
-            "id": 351,
+            "id": 368,
+            "code": "13.1.1.1",
+            "col_code": "C",
+            "value_hours": "1.00"
+        },
+        {
+            "id": 369,
             "code": "13.1.2",
             "col_code": "C",
             "value_hours": "1.50"
         },
         {
-            "id": 352,
-            "code": "13.2",
+            "id": 370,
+            "code": "13.1.2.1",
             "col_code": "C",
             "value_hours": "1.00"
         },
         {
-            "id": 353,
-            "code": "13.3.1",
+            "id": 371,
+            "code": "13.2.1",
             "col_code": "P11",
             "value_hours": "0.25"
         },
         {
-            "id": 354,
-            "code": "13.3.2",
+            "id": 372,
+            "code": "13.2.2",
             "col_code": "P11",
             "value_hours": "0.25"
         },
         {
-            "id": 355,
-            "code": "13.3.3",
+            "id": 373,
+            "code": "13.2.3",
             "col_code": "P11",
             "value_hours": "0.25"
+        },
+        {
+            "id": 38,
+            "code": "2.1",
+            "col_code": "D",
+            "value_hours": "4.50"
+        },
+        {
+            "id": 39,
+            "code": "2.2",
+            "col_code": "D",
+            "value_hours": "5.50"
         },
         {
             "id": 1,
@@ -1689,487 +1761,481 @@
             "value_hours": "1.00"
         },
         {
-            "id": 38,
+            "id": 40,
             "code": "5.2",
             "col_code": "A",
             "value_hours": "0.25"
         },
         {
-            "id": 39,
+            "id": 41,
             "code": "5.2",
             "col_code": "C",
             "value_hours": "1.50"
         },
         {
-            "id": 40,
+            "id": 42,
             "code": "5.3",
             "col_code": "A",
             "value_hours": "0.50"
         },
         {
-            "id": 41,
+            "id": 43,
             "code": "5.3",
             "col_code": "B",
             "value_hours": "0.75"
         },
         {
-            "id": 42,
+            "id": 44,
             "code": "5.3",
             "col_code": "C",
             "value_hours": "2.00"
         },
         {
-            "id": 43,
+            "id": 45,
             "code": "5.3",
             "col_code": "P1",
             "value_hours": "0.50"
         },
         {
-            "id": 44,
+            "id": 46,
             "code": "5.3",
             "col_code": "P3",
             "value_hours": "0.50"
         },
         {
-            "id": 45,
+            "id": 47,
             "code": "5.3",
             "col_code": "P5",
             "value_hours": "1.00"
         },
         {
-            "id": 46,
+            "id": 48,
             "code": "5.3",
             "col_code": "P6",
             "value_hours": "1.50"
         },
         {
-            "id": 47,
+            "id": 49,
             "code": "5.4",
             "col_code": "A",
             "value_hours": "0.50"
         },
         {
-            "id": 48,
+            "id": 50,
             "code": "5.4",
             "col_code": "B",
             "value_hours": "1.00"
         },
         {
-            "id": 49,
+            "id": 51,
             "code": "5.4",
             "col_code": "C",
             "value_hours": "3.00"
         },
         {
-            "id": 50,
+            "id": 52,
             "code": "5.4",
             "col_code": "P1",
             "value_hours": "0.50"
         },
         {
-            "id": 51,
+            "id": 53,
             "code": "5.4",
             "col_code": "P3",
             "value_hours": "0.50"
         },
         {
-            "id": 52,
+            "id": 54,
             "code": "5.4",
             "col_code": "P5",
             "value_hours": "1.00"
         },
         {
-            "id": 53,
+            "id": 55,
             "code": "5.4",
             "col_code": "P6",
             "value_hours": "1.50"
         },
         {
-            "id": 54,
+            "id": 56,
             "code": "6.1.2",
             "col_code": "A",
             "value_hours": "0.25"
-        },
-        {
-            "id": 55,
-            "code": "6.1.2",
-            "col_code": "B",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 56,
-            "code": "6.1.2",
-            "col_code": "C",
-            "value_hours": "0.75"
         },
         {
             "id": 57,
             "code": "6.1.2",
+            "col_code": "B",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 58,
+            "code": "6.1.2",
+            "col_code": "C",
+            "value_hours": "0.75"
+        },
+        {
+            "id": 59,
+            "code": "6.1.2",
             "col_code": "P3",
             "value_hours": "0.50"
         },
         {
-            "id": 58,
+            "id": 60,
             "code": "6.1.2",
             "col_code": "P6",
             "value_hours": "0.50"
         },
         {
-            "id": 59,
+            "id": 61,
             "code": "6.1.3",
             "col_code": "A",
             "value_hours": "0.30"
-        },
-        {
-            "id": 60,
-            "code": "6.1.3",
-            "col_code": "B",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 61,
-            "code": "6.1.3",
-            "col_code": "C",
-            "value_hours": "1.00"
         },
         {
             "id": 62,
             "code": "6.1.3",
+            "col_code": "B",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 63,
+            "code": "6.1.3",
+            "col_code": "C",
+            "value_hours": "1.00"
+        },
+        {
+            "id": 64,
+            "code": "6.1.3",
             "col_code": "P3",
             "value_hours": "1.00"
         },
         {
-            "id": 63,
+            "id": 65,
             "code": "6.1.3",
             "col_code": "P6",
             "value_hours": "0.50"
         },
         {
-            "id": 64,
+            "id": 66,
             "code": "6.1.4",
             "col_code": "A",
             "value_hours": "0.75"
-        },
-        {
-            "id": 65,
-            "code": "6.1.4",
-            "col_code": "B",
-            "value_hours": "0.75"
-        },
-        {
-            "id": 66,
-            "code": "6.1.4",
-            "col_code": "C",
-            "value_hours": "1.00"
         },
         {
             "id": 67,
             "code": "6.1.4",
-            "col_code": "P3",
-            "value_hours": "1.25"
+            "col_code": "B",
+            "value_hours": "0.75"
         },
         {
             "id": 68,
-            "code": "6.2.2",
-            "col_code": "A",
-            "value_hours": "0.25"
+            "code": "6.1.4",
+            "col_code": "C",
+            "value_hours": "1.00"
         },
         {
             "id": 69,
-            "code": "6.2.2",
-            "col_code": "B",
-            "value_hours": "0.25"
+            "code": "6.1.4",
+            "col_code": "P3",
+            "value_hours": "1.25"
         },
         {
             "id": 70,
             "code": "6.2.2",
-            "col_code": "C",
-            "value_hours": "0.75"
+            "col_code": "A",
+            "value_hours": "0.25"
         },
         {
             "id": 71,
             "code": "6.2.2",
+            "col_code": "B",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 72,
+            "code": "6.2.2",
+            "col_code": "C",
+            "value_hours": "0.75"
+        },
+        {
+            "id": 73,
+            "code": "6.2.2",
             "col_code": "P3",
             "value_hours": "0.50"
         },
         {
-            "id": 72,
+            "id": 74,
             "code": "6.2.2",
             "col_code": "P6",
             "value_hours": "0.50"
         },
         {
-            "id": 73,
+            "id": 75,
             "code": "6.2.3",
             "col_code": "A",
             "value_hours": "0.30"
         },
         {
-            "id": 74,
+            "id": 76,
             "code": "6.2.3",
             "col_code": "B",
             "value_hours": "0.30"
         },
         {
-            "id": 75,
+            "id": 77,
             "code": "6.2.3",
             "col_code": "C",
             "value_hours": "1.00"
         },
         {
-            "id": 76,
+            "id": 78,
             "code": "6.2.3",
             "col_code": "P3",
             "value_hours": "1.00"
         },
         {
-            "id": 77,
+            "id": 79,
             "code": "6.2.3",
             "col_code": "P6",
             "value_hours": "0.50"
         },
         {
-            "id": 78,
+            "id": 80,
             "code": "6.2.4",
             "col_code": "A",
             "value_hours": "0.30"
         },
         {
-            "id": 79,
+            "id": 81,
             "code": "6.2.4",
             "col_code": "B",
             "value_hours": "0.30"
         },
         {
-            "id": 80,
+            "id": 82,
             "code": "6.2.4",
             "col_code": "C",
             "value_hours": "1.00"
         },
         {
-            "id": 81,
+            "id": 83,
             "code": "6.2.4",
             "col_code": "P3",
             "value_hours": "1.25"
         },
         {
-            "id": 82,
+            "id": 84,
             "code": "7.2",
             "col_code": "A",
             "value_hours": "0.25"
         },
         {
-            "id": 83,
+            "id": 85,
             "code": "7.2",
             "col_code": "B",
             "value_hours": "0.50"
         },
         {
-            "id": 84,
+            "id": 86,
             "code": "7.2",
             "col_code": "P1",
             "value_hours": "0.25"
         },
         {
-            "id": 85,
+            "id": 87,
             "code": "7.3",
             "col_code": "A",
             "value_hours": "0.50"
         },
         {
-            "id": 86,
+            "id": 88,
             "code": "7.3",
             "col_code": "B",
             "value_hours": "0.75"
         },
         {
-            "id": 87,
+            "id": 89,
             "code": "7.3",
             "col_code": "P1",
             "value_hours": "0.25"
         },
         {
-            "id": 88,
+            "id": 90,
             "code": "7.3",
             "col_code": "P5",
             "value_hours": "1.00"
         },
         {
-            "id": 89,
+            "id": 91,
             "code": "7.3",
             "col_code": "P6",
-            "value_hours": "1.00"
-        },
-        {
-            "id": 90,
-            "code": "7.4",
-            "col_code": "A",
-            "value_hours": "1.00"
-        },
-        {
-            "id": 91,
-            "code": "7.4",
-            "col_code": "B",
             "value_hours": "1.00"
         },
         {
             "id": 92,
             "code": "7.4",
-            "col_code": "P1",
-            "value_hours": "0.25"
+            "col_code": "A",
+            "value_hours": "1.00"
         },
         {
             "id": 93,
             "code": "7.4",
-            "col_code": "P5",
+            "col_code": "B",
             "value_hours": "1.00"
         },
         {
             "id": 94,
             "code": "7.4",
+            "col_code": "P1",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 95,
+            "code": "7.4",
+            "col_code": "P5",
+            "value_hours": "1.00"
+        },
+        {
+            "id": 96,
+            "code": "7.4",
             "col_code": "P6",
             "value_hours": "1.50"
         },
         {
-            "id": 95,
-            "code": "8.2",
-            "col_code": "A",
-            "value_hours": "0.50"
-        },
-        {
-            "id": 96,
-            "code": "8.2",
-            "col_code": "B",
-            "value_hours": "0.50"
-        },
-        {
             "id": 97,
-            "code": "8.3",
+            "code": "8.2",
             "col_code": "A",
             "value_hours": "0.50"
         },
         {
             "id": 98,
-            "code": "8.3",
+            "code": "8.2",
             "col_code": "B",
             "value_hours": "0.50"
         },
         {
             "id": 99,
-            "code": "8.4",
+            "code": "8.3",
             "col_code": "A",
             "value_hours": "0.50"
         },
         {
             "id": 100,
-            "code": "8.4",
+            "code": "8.3",
             "col_code": "B",
             "value_hours": "0.50"
         },
         {
             "id": 101,
-            "code": "9.1.1",
+            "code": "8.4",
             "col_code": "A",
-            "value_hours": "0.25"
+            "value_hours": "0.50"
         },
         {
             "id": 102,
-            "code": "9.1.1",
+            "code": "8.4",
             "col_code": "B",
-            "value_hours": "1.00"
+            "value_hours": "0.50"
         },
         {
             "id": 103,
             "code": "9.1.1",
-            "col_code": "P1",
+            "col_code": "A",
             "value_hours": "0.25"
         },
         {
             "id": 104,
             "code": "9.1.1",
+            "col_code": "B",
+            "value_hours": "1.00"
+        },
+        {
+            "id": 105,
+            "code": "9.1.1",
+            "col_code": "P1",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 106,
+            "code": "9.1.1",
             "col_code": "P3",
             "value_hours": "0.15"
         },
         {
-            "id": 105,
+            "id": 107,
             "code": "9.2",
             "col_code": "A",
             "value_hours": "0.50"
         },
         {
-            "id": 106,
+            "id": 108,
             "code": "9.2",
             "col_code": "B",
             "value_hours": "1.00"
         },
         {
-            "id": 107,
+            "id": 109,
             "code": "9.2",
             "col_code": "P3",
             "value_hours": "0.25"
         },
         {
-            "id": 108,
-            "code": "9.2.1",
-            "col_code": "A",
-            "value_hours": "0.25"
-        },
-        {
-            "id": 109,
-            "code": "9.2.1",
-            "col_code": "B",
-            "value_hours": "1.00"
-        },
-        {
             "id": 110,
             "code": "9.2.1",
-            "col_code": "P1",
+            "col_code": "A",
             "value_hours": "0.25"
         },
         {
             "id": 111,
             "code": "9.2.1",
+            "col_code": "B",
+            "value_hours": "1.00"
+        },
+        {
+            "id": 112,
+            "code": "9.2.1",
+            "col_code": "P1",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 113,
+            "code": "9.2.1",
             "col_code": "P3",
             "value_hours": "0.15"
         },
         {
-            "id": 112,
+            "id": 114,
             "code": "9.3",
             "col_code": "A",
             "value_hours": "1.00"
         },
         {
-            "id": 113,
+            "id": 115,
             "code": "9.3",
             "col_code": "B",
             "value_hours": "2.00"
         },
         {
-            "id": 114,
+            "id": 116,
             "code": "9.3",
             "col_code": "P3",
             "value_hours": "0.50"
         },
         {
-            "id": 115,
-            "code": "9.3.1",
-            "col_code": "A",
-            "value_hours": "0.30"
-        },
-        {
-            "id": 116,
+            "id": 117,
             "code": "9.3.1",
             "col_code": "B",
             "value_hours": "1.00"
         },
         {
-            "id": 117,
+            "id": 118,
             "code": "9.3.1",
             "col_code": "P1",
             "value_hours": "0.25"
         },
         {
-            "id": 118,
+            "id": 119,
             "code": "9.3.1",
             "col_code": "P3",
             "value_hours": "0.15"
@@ -2177,1831 +2243,1840 @@
     ],
     "form_items": [
         {
-            "id": 1,
-            "code": "1",
-            "step": 1,
-            "parent_code": null,
-            "label": "Informations du client",
-            "input_type": "group",
-            "sort_order": 0
-        },
-        {
-            "id": 2,
-            "code": "2",
-            "step": 2,
-            "parent_code": null,
-            "label": "Vos besoins",
-            "input_type": "group",
-            "sort_order": 0
-        },
-        {
-            "id": 3,
+            "id": 14,
             "code": "2.1",
             "step": 2,
             "parent_code": "2",
             "label": "Plan de base",
-            "input_type": "radio",
+            "input_type": "r",
             "sort_order": 10
         },
         {
-            "id": 4,
+            "id": 15,
             "code": "2.2",
             "step": 2,
             "parent_code": "2",
-            "label": "Plan très détaillé",
-            "input_type": "radio",
+            "label": "Plan très détaillé sur mesure",
+            "input_type": "r",
             "sort_order": 20
         },
         {
-            "id": 5,
+            "id": 13,
+            "code": "2",
+            "step": 2,
+            "parent_code": null,
+            "label": "Vos besoins",
+            "input_type": null,
+            "sort_order": 30
+        },
+        {
+            "id": 1,
             "code": "3",
             "step": 3,
             "parent_code": null,
             "label": "Type de plan",
-            "input_type": "group",
-            "sort_order": 0
+            "input_type": null,
+            "sort_order": 10
         },
         {
-            "id": 6,
+            "id": 2,
             "code": "3.1",
             "step": 3,
             "parent_code": "3",
             "label": "Avant",
-            "input_type": "radio",
+            "input_type": "r",
             "sort_order": 10
         },
         {
-            "id": 7,
+            "id": 3,
             "code": "3.2",
             "step": 3,
             "parent_code": "3",
             "label": "Arrière",
-            "input_type": "radio",
+            "input_type": "r",
             "sort_order": 20
         },
         {
-            "id": 8,
+            "id": 4,
             "code": "3.3",
             "step": 3,
             "parent_code": "3",
             "label": "Complet",
-            "input_type": "radio",
+            "input_type": "r",
             "sort_order": 30
         },
         {
-            "id": 9,
-            "code": "4",
-            "step": 4,
-            "parent_code": null,
-            "label": "Budget du projet",
-            "input_type": "group",
-            "sort_order": 0
-        },
-        {
-            "id": 10,
+            "id": 6,
             "code": "4.1",
             "step": 4,
             "parent_code": "4",
             "label": "Moins de 25 000$",
-            "input_type": "radio",
+            "input_type": "r",
             "sort_order": 10
         },
         {
-            "id": 11,
-            "code": "4.2",
+            "id": 5,
+            "code": "4",
             "step": 4,
-            "parent_code": "4",
-            "label": "25k à 50k",
-            "input_type": "radio",
+            "parent_code": null,
+            "label": "Budget du projet",
+            "input_type": null,
             "sort_order": 20
         },
         {
-            "id": 12,
+            "id": 7,
+            "code": "4.2",
+            "step": 4,
+            "parent_code": "4",
+            "label": "25 000$ a 50 000$",
+            "input_type": "r",
+            "sort_order": 20
+        },
+        {
+            "id": 8,
             "code": "4.3",
             "step": 4,
             "parent_code": "4",
-            "label": "50k à 100k",
-            "input_type": "radio",
+            "label": "50 000$ a 100 000$",
+            "input_type": "r",
             "sort_order": 30
         },
         {
-            "id": 13,
+            "id": 9,
             "code": "4.4",
             "step": 4,
             "parent_code": "4",
-            "label": "100k à 150k",
-            "input_type": "radio",
+            "label": "100 000$ a 150 000$",
+            "input_type": "r",
             "sort_order": 40
         },
         {
-            "id": 14,
+            "id": 10,
             "code": "4.5",
             "step": 4,
             "parent_code": "4",
-            "label": "150k à 200k",
-            "input_type": "radio",
+            "label": "150 000$ a 200 000$",
+            "input_type": "r",
             "sort_order": 50
         },
         {
-            "id": 15,
+            "id": 11,
             "code": "4.6",
             "step": 4,
             "parent_code": "4",
-            "label": "200k à 300k",
-            "input_type": "radio",
+            "label": "200 000$ a 300 000$",
+            "input_type": "r",
             "sort_order": 60
         },
         {
-            "id": 16,
+            "id": 12,
             "code": "4.7",
             "step": 4,
             "parent_code": "4",
-            "label": "Plus de 300k",
-            "input_type": "radio",
+            "label": "Plus de 300 000$",
+            "input_type": "r",
             "sort_order": 70
         },
         {
             "id": 17,
+            "code": "5.1",
+            "step": 5,
+            "parent_code": "5",
+            "label": "Dimension du terrain  de 10 000 pi2 : ",
+            "input_type": "r",
+            "sort_order": 10
+        },
+        {
+            "id": 18,
+            "code": "5.2",
+            "step": 5,
+            "parent_code": "5",
+            "label": "Dimension du terrain + de 10 000 pi2 :",
+            "input_type": "r",
+            "sort_order": 20
+        },
+        {
+            "id": 19,
+            "code": "5.3",
+            "step": 5,
+            "parent_code": "5",
+            "label": "Dimension du terrain + de 15 000 pi2 :",
+            "input_type": "r",
+            "sort_order": 30
+        },
+        {
+            "id": 16,
             "code": "5",
             "step": 5,
             "parent_code": null,
             "label": "Information du terrain",
-            "input_type": "group",
-            "sort_order": 0
-        },
-        {
-            "id": 18,
-            "code": "5.1",
-            "step": 5,
-            "parent_code": "5",
-            "label": "Dimension du terrain - de 10 000 pi2",
-            "input_type": "radio",
-            "sort_order": 10
-        },
-        {
-            "id": 19,
-            "code": "5.2",
-            "step": 5,
-            "parent_code": "5",
-            "label": "Dimension du terrain + de 10 000 pi2",
-            "input_type": "radio",
-            "sort_order": 20
+            "input_type": null,
+            "sort_order": 40
         },
         {
             "id": 20,
-            "code": "5.3",
-            "step": 5,
-            "parent_code": "5",
-            "label": "Dimension du terrain + de 15 000 pi2",
-            "input_type": "radio",
-            "sort_order": 30
-        },
-        {
-            "id": 21,
             "code": "5.4",
             "step": 5,
             "parent_code": "5",
-            "label": "Dimension du terrain + de 20 000 pi2",
-            "input_type": "radio",
+            "label": "Dimension du terrain + de 20 000 pi2 :",
+            "input_type": "r",
             "sort_order": 40
         },
         {
             "id": 22,
-            "code": "6",
-            "step": 6,
-            "parent_code": null,
-            "label": "Pente du terrain",
-            "input_type": "group",
-            "sort_order": 0
-        },
-        {
-            "id": 23,
             "code": "6.1",
             "step": 6,
             "parent_code": "6",
-            "label": "Pente du terrain avant",
-            "input_type": "group",
+            "label": "Terrain avant",
+            "input_type": null,
+            "sort_order": 10
+        },
+        {
+            "id": 23,
+            "code": "6.1.1",
+            "step": 6,
+            "parent_code": "6.1",
+            "label": "Pente du terrain nulle :",
+            "input_type": "r",
+            "sort_order": 10
+        },
+        {
+            "id": 28,
+            "code": "6.2.1",
+            "step": 6,
+            "parent_code": "6.2",
+            "label": "Pente du terrain nulle :",
+            "input_type": "r",
             "sort_order": 10
         },
         {
             "id": 24,
-            "code": "6.1.1",
-            "step": 6,
-            "parent_code": "6.1",
-            "label": "Pente du terrain nulle",
-            "input_type": "radio",
-            "sort_order": 11
-        },
-        {
-            "id": 25,
             "code": "6.1.2",
             "step": 6,
             "parent_code": "6.1",
-            "label": "Pente du terrain faible",
-            "input_type": "radio",
-            "sort_order": 12
-        },
-        {
-            "id": 26,
-            "code": "6.1.3",
-            "step": 6,
-            "parent_code": "6.1",
-            "label": "Pente du terrain forte",
-            "input_type": "radio",
-            "sort_order": 13
+            "label": "Pente du terrain faible :",
+            "input_type": "r",
+            "sort_order": 20
         },
         {
             "id": 27,
-            "code": "6.1.4",
-            "step": 6,
-            "parent_code": "6.1",
-            "label": "Pente du terrain en montagne",
-            "input_type": "radio",
-            "sort_order": 14
-        },
-        {
-            "id": 28,
             "code": "6.2",
             "step": 6,
             "parent_code": "6",
-            "label": "Pente du terrain arrière",
-            "input_type": "group",
+            "label": "Terrain arrière",
+            "input_type": null,
             "sort_order": 20
         },
         {
             "id": 29,
-            "code": "6.2.1",
-            "step": 6,
-            "parent_code": "6.2",
-            "label": "Pente du terrain nulle",
-            "input_type": "radio",
-            "sort_order": 21
-        },
-        {
-            "id": 30,
             "code": "6.2.2",
             "step": 6,
             "parent_code": "6.2",
-            "label": "Pente du terrain faible",
-            "input_type": "radio",
-            "sort_order": 22
+            "label": "Pente du terrain faible :",
+            "input_type": "r",
+            "sort_order": 20
         },
         {
-            "id": 31,
+            "id": 25,
+            "code": "6.1.3",
+            "step": 6,
+            "parent_code": "6.1",
+            "label": "Pente du terrain forte : ",
+            "input_type": "r",
+            "sort_order": 30
+        },
+        {
+            "id": 30,
             "code": "6.2.3",
             "step": 6,
             "parent_code": "6.2",
-            "label": "Pente du terrain forte",
-            "input_type": "radio",
-            "sort_order": 23
+            "label": "Pente du terrain forte : ",
+            "input_type": "r",
+            "sort_order": 30
         },
         {
-            "id": 32,
+            "id": 26,
+            "code": "6.1.4",
+            "step": 6,
+            "parent_code": "6.1",
+            "label": "Pente du terrain en montagne : ",
+            "input_type": "r",
+            "sort_order": 40
+        },
+        {
+            "id": 31,
             "code": "6.2.4",
             "step": 6,
             "parent_code": "6.2",
-            "label": "Pente du terrain en montagne",
-            "input_type": "radio",
-            "sort_order": 24
+            "label": "Pente du terrain en montagne : ",
+            "input_type": "r",
+            "sort_order": 40
+        },
+        {
+            "id": 21,
+            "code": "6",
+            "step": 6,
+            "parent_code": null,
+            "label": "Pente du terrain",
+            "input_type": null,
+            "sort_order": 50
         },
         {
             "id": 33,
-            "code": "7",
-            "step": 7,
-            "parent_code": null,
-            "label": "Arbres sur le terrain",
-            "input_type": "group",
-            "sort_order": 0
-        },
-        {
-            "id": 34,
             "code": "7.1",
             "step": 7,
             "parent_code": "7",
             "label": "Entre 0 et 4",
-            "input_type": "radio",
+            "input_type": "r",
             "sort_order": 10
         },
         {
-            "id": 35,
+            "id": 34,
             "code": "7.2",
             "step": 7,
             "parent_code": "7",
             "label": "Entre 5 et 9",
-            "input_type": "radio",
+            "input_type": "r",
             "sort_order": 20
         },
         {
-            "id": 36,
+            "id": 35,
             "code": "7.3",
             "step": 7,
             "parent_code": "7",
             "label": "Entre 10 et 20",
-            "input_type": "radio",
+            "input_type": "r",
             "sort_order": 30
         },
         {
-            "id": 37,
+            "id": 36,
             "code": "7.4",
             "step": 7,
             "parent_code": "7",
             "label": "Plus de 20",
-            "input_type": "radio",
+            "input_type": "r",
             "sort_order": 40
         },
         {
-            "id": 38,
-            "code": "8",
-            "step": 8,
+            "id": 32,
+            "code": "7",
+            "step": 7,
             "parent_code": null,
-            "label": "Autres contraintes du terrain",
-            "input_type": "group",
-            "sort_order": 0
+            "label": "Arbres sur le terrain",
+            "input_type": null,
+            "sort_order": 60
         },
         {
-            "id": 39,
+            "id": 38,
             "code": "8.1",
             "step": 8,
             "parent_code": "8",
             "label": "Fossé",
-            "input_type": "checkbox",
+            "input_type": "c",
             "sort_order": 10
         },
         {
-            "id": 40,
+            "id": 39,
             "code": "8.2",
             "step": 8,
             "parent_code": "8",
             "label": "Terrain en angle",
-            "input_type": "checkbox",
+            "input_type": "c",
             "sort_order": 20
         },
         {
-            "id": 41,
+            "id": 40,
             "code": "8.3",
             "step": 8,
             "parent_code": "8",
             "label": "Coin de rue",
-            "input_type": "checkbox",
+            "input_type": "c",
             "sort_order": 30
         },
         {
-            "id": 42,
+            "id": 41,
             "code": "8.4",
             "step": 8,
             "parent_code": "8",
-            "label": "Beaucoup de végétation",
-            "input_type": "checkbox",
+            "label": "Beaucoup de végétation présente",
+            "input_type": "c",
             "sort_order": 40
         },
         {
-            "id": 43,
-            "code": "9",
-            "step": 9,
+            "id": 37,
+            "code": "8",
+            "step": 8,
             "parent_code": null,
-            "label": "Complexité de votre maison",
-            "input_type": "group",
-            "sort_order": 0
+            "label": "Autres contraintes du terrain",
+            "input_type": null,
+            "sort_order": 70
         },
         {
-            "id": 44,
+            "id": 43,
             "code": "9.1",
             "step": 9,
             "parent_code": "9",
             "label": "Petite maison",
-            "input_type": "radio",
+            "input_type": "r",
+            "sort_order": 10
+        },
+        {
+            "id": 44,
+            "code": "9.1.1",
+            "step": 9,
+            "parent_code": "9.1",
+            "label": "-J'ai un rez-de-jardin",
+            "input_type": "c",
+            "sort_order": 10
+        },
+        {
+            "id": 46,
+            "code": "9.2.1",
+            "step": 9,
+            "parent_code": "9.2",
+            "label": "-J'ai un rez-de-jardin",
+            "input_type": "c",
+            "sort_order": 10
+        },
+        {
+            "id": 48,
+            "code": "9.3.1",
+            "step": 9,
+            "parent_code": "9.3",
+            "label": "-J'ai un rez-de-jardin",
+            "input_type": "c",
             "sort_order": 10
         },
         {
             "id": 45,
-            "code": "9.1.1",
-            "step": 9,
-            "parent_code": "9.1",
-            "label": "J'ai un rez de jardin",
-            "input_type": "checkbox",
-            "sort_order": 11
-        },
-        {
-            "id": 46,
             "code": "9.2",
             "step": 9,
             "parent_code": "9",
             "label": "Moyenne maison",
-            "input_type": "radio",
+            "input_type": "r",
             "sort_order": 20
         },
         {
             "id": 47,
-            "code": "9.2.1",
-            "step": 9,
-            "parent_code": "9.2",
-            "label": "J'ai un rez de jardin",
-            "input_type": "checkbox",
-            "sort_order": 21
-        },
-        {
-            "id": 48,
             "code": "9.3",
             "step": 9,
             "parent_code": "9",
             "label": "Grosse maison",
-            "input_type": "radio",
+            "input_type": "r",
             "sort_order": 30
         },
         {
-            "id": 49,
-            "code": "9.3.1",
+            "id": 42,
+            "code": "9",
             "step": 9,
-            "parent_code": "9.3",
-            "label": "J'ai un rez de jardin",
-            "input_type": "checkbox",
-            "sort_order": 31
+            "parent_code": null,
+            "label": "Complexité de votre maison",
+            "input_type": null,
+            "sort_order": 80
         },
         {
             "id": 50,
-            "code": "10",
-            "step": 10,
-            "parent_code": null,
-            "label": "Information Avant",
-            "input_type": "group",
-            "sort_order": 0
-        },
-        {
-            "id": 51,
             "code": "10.1",
             "step": 10,
             "parent_code": "10",
             "label": "Stationnement",
-            "input_type": "checkbox",
+            "input_type": "c",
+            "sort_order": 10
+        },
+        {
+            "id": 51,
+            "code": "10.1.1",
+            "step": 10,
+            "parent_code": "10.1",
+            "label": "Stationnement a conserver tel quel",
+            "input_type": "r",
+            "sort_order": 10
+        },
+        {
+            "id": 54,
+            "code": "10.2.1",
+            "step": 10,
+            "parent_code": "10.2",
+            "label": "Trottoir a conserver tel quel",
+            "input_type": "r",
+            "sort_order": 10
+        },
+        {
+            "id": 57,
+            "code": "10.3.1",
+            "step": 10,
+            "parent_code": "10.3",
+            "label": "Marches a conserver",
+            "input_type": "r",
+            "sort_order": 10
+        },
+        {
+            "id": 58,
+            "code": "10.3.1.1",
+            "step": 10,
+            "parent_code": "10.3.1",
+            "label": "Moins de 3 marches ",
+            "input_type": "r",
+            "sort_order": 10
+        },
+        {
+            "id": 63,
+            "code": "10.3.2.1",
+            "step": 10,
+            "parent_code": "10.3.2",
+            "label": "Moins de 3 marches ",
+            "input_type": "r",
+            "sort_order": 10
+        },
+        {
+            "id": 68,
+            "code": "10.4.1",
+            "step": 10,
+            "parent_code": "10.4",
+            "label": "Petite terrasse avant",
+            "input_type": "c",
             "sort_order": 10
         },
         {
             "id": 52,
-            "code": "10.1.1",
-            "step": 10,
-            "parent_code": "10.1",
-            "label": "Conserver tel quel",
-            "input_type": "radio",
-            "sort_order": 11
-        },
-        {
-            "id": 53,
             "code": "10.1.2",
             "step": 10,
             "parent_code": "10.1",
-            "label": "Refaire en neuf",
-            "input_type": "radio",
-            "sort_order": 12
+            "label": "Stationnement a refaire en neuf",
+            "input_type": "r",
+            "sort_order": 20
         },
         {
-            "id": 54,
+            "id": 53,
             "code": "10.2",
             "step": 10,
             "parent_code": "10",
             "label": "Trottoir",
-            "input_type": "checkbox",
+            "input_type": "c",
             "sort_order": 20
         },
         {
             "id": 55,
-            "code": "10.2.1",
-            "step": 10,
-            "parent_code": "10.2",
-            "label": "Conserver tel quel",
-            "input_type": "radio",
-            "sort_order": 21
-        },
-        {
-            "id": 56,
             "code": "10.2.2",
             "step": 10,
             "parent_code": "10.2",
-            "label": "Refaire en neuf",
-            "input_type": "radio",
-            "sort_order": 22
-        },
-        {
-            "id": 57,
-            "code": "10.3",
-            "step": 10,
-            "parent_code": "10",
-            "label": "Marches",
-            "input_type": "checkbox",
-            "sort_order": 30
-        },
-        {
-            "id": 58,
-            "code": "10.3.1",
-            "step": 10,
-            "parent_code": "10.3",
-            "label": "Marches à conserver",
-            "input_type": "radio",
-            "sort_order": 31
+            "label": "Trottoir a refaire en neuf",
+            "input_type": "r",
+            "sort_order": 20
         },
         {
             "id": 59,
-            "code": "10.3.1.1",
-            "step": 10,
-            "parent_code": "10.3.1",
-            "label": "Entre 0 et 2",
-            "input_type": "radio",
-            "sort_order": 32
-        },
-        {
-            "id": 60,
             "code": "10.3.1.2",
             "step": 10,
             "parent_code": "10.3.1",
-            "label": "Entre 3 et 5",
-            "input_type": "radio",
-            "sort_order": 33
-        },
-        {
-            "id": 61,
-            "code": "10.3.1.3",
-            "step": 10,
-            "parent_code": "10.3.1",
-            "label": "Entre 6 et 10",
-            "input_type": "radio",
-            "sort_order": 34
+            "label": "Plus de 3 marches",
+            "input_type": "r",
+            "sort_order": 20
         },
         {
             "id": 62,
-            "code": "10.3.1.4",
-            "step": 10,
-            "parent_code": "10.3.1",
-            "label": "Plus de 10",
-            "input_type": "radio",
-            "sort_order": 35
-        },
-        {
-            "id": 63,
             "code": "10.3.2",
             "step": 10,
             "parent_code": "10.3",
-            "label": "Marches à refaire",
-            "input_type": "radio",
-            "sort_order": 36
+            "label": "Marches a refaire en neuf",
+            "input_type": "r",
+            "sort_order": 20
         },
         {
             "id": 64,
-            "code": "10.3.2.1",
-            "step": 10,
-            "parent_code": "10.3.2",
-            "label": "Entre 0 et 2",
-            "input_type": "radio",
-            "sort_order": 37
-        },
-        {
-            "id": 65,
             "code": "10.3.2.2",
             "step": 10,
             "parent_code": "10.3.2",
-            "label": "Entre 3 et 5",
-            "input_type": "radio",
-            "sort_order": 38
-        },
-        {
-            "id": 66,
-            "code": "10.3.2.3",
-            "step": 10,
-            "parent_code": "10.3.2",
-            "label": "Entre 6 et 10",
-            "input_type": "radio",
-            "sort_order": 39
-        },
-        {
-            "id": 67,
-            "code": "10.3.2.4",
-            "step": 10,
-            "parent_code": "10.3.2",
-            "label": "Plus de 10",
-            "input_type": "radio",
-            "sort_order": 40
-        },
-        {
-            "id": 68,
-            "code": "10.4",
-            "step": 10,
-            "parent_code": "10",
-            "label": "Autres demandes",
-            "input_type": "group",
-            "sort_order": 50
+            "label": "Plus de 3 marches",
+            "input_type": "r",
+            "sort_order": 20
         },
         {
             "id": 69,
-            "code": "10.4.1",
-            "step": 10,
-            "parent_code": "10.4",
-            "label": "Petite terrasse",
-            "input_type": "checkbox",
-            "sort_order": 51
-        },
-        {
-            "id": 70,
             "code": "10.4.2",
             "step": 10,
             "parent_code": "10.4",
             "label": "Colonne avec lumière",
-            "input_type": "checkbox",
-            "sort_order": 52
+            "input_type": "c",
+            "sort_order": 20
         },
         {
-            "id": 71,
+            "id": 56,
+            "code": "10.3",
+            "step": 10,
+            "parent_code": "10",
+            "label": "Marches",
+            "input_type": "c",
+            "sort_order": 30
+        },
+        {
+            "id": 60,
+            "code": "10.3.1.3",
+            "step": 10,
+            "parent_code": "10.3.1",
+            "label": "Plus de 5 marches",
+            "input_type": "r",
+            "sort_order": 30
+        },
+        {
+            "id": 65,
+            "code": "10.3.2.3",
+            "step": 10,
+            "parent_code": "10.3.2",
+            "label": "Plus de 5 marches",
+            "input_type": "r",
+            "sort_order": 30
+        },
+        {
+            "id": 70,
             "code": "10.4.3",
             "step": 10,
             "parent_code": "10.4",
-            "label": "Portail d’entrée",
-            "input_type": "checkbox",
-            "sort_order": 53
+            "label": "Portail d'entrée",
+            "input_type": "c",
+            "sort_order": 30
         },
         {
-            "id": 72,
+            "id": 61,
+            "code": "10.3.1.4",
+            "step": 10,
+            "parent_code": "10.3.1",
+            "label": "Plus de 10 marches",
+            "input_type": "r",
+            "sort_order": 40
+        },
+        {
+            "id": 66,
+            "code": "10.3.2.4",
+            "step": 10,
+            "parent_code": "10.3.2",
+            "label": "Plus de 10 marches",
+            "input_type": "r",
+            "sort_order": 40
+        },
+        {
+            "id": 67,
+            "code": "10.4",
+            "step": 10,
+            "parent_code": "10",
+            "label": "Autres demandes",
+            "input_type": "c",
+            "sort_order": 40
+        },
+        {
+            "id": 71,
             "code": "10.4.4",
             "step": 10,
             "parent_code": "10.4",
             "label": "Prévoir un futur garage attaché",
-            "input_type": "checkbox",
-            "sort_order": 54
+            "input_type": "c",
+            "sort_order": 40
         },
         {
-            "id": 73,
+            "id": 72,
             "code": "10.4.5",
             "step": 10,
             "parent_code": "10.4",
             "label": "Prévoir un futur garage détaché",
-            "input_type": "checkbox",
-            "sort_order": 55
+            "input_type": "c",
+            "sort_order": 50
         },
         {
-            "id": 74,
+            "id": 73,
             "code": "10.4.6",
             "step": 10,
             "parent_code": "10.4",
-            "label": "Intégrer un élément d’eau",
-            "input_type": "checkbox",
-            "sort_order": 56
+            "label": "Intégrer un élément d'eau fontaine, bassin, etc.",
+            "input_type": "c",
+            "sort_order": 60
+        },
+        {
+            "id": 49,
+            "code": "10",
+            "step": 10,
+            "parent_code": null,
+            "label": "Information Avant",
+            "input_type": null,
+            "sort_order": 90
         },
         {
             "id": 75,
-            "code": "11",
-            "step": 11,
-            "parent_code": null,
-            "label": "Information arrière",
-            "input_type": "group",
-            "sort_order": 0
-        },
-        {
-            "id": 76,
             "code": "11.1",
             "step": 11,
             "parent_code": "11",
             "label": "Patio",
-            "input_type": "checkbox",
+            "input_type": "c",
+            "sort_order": 10
+        },
+        {
+            "id": 76,
+            "code": "11.1.1",
+            "step": 11,
+            "parent_code": "11.1",
+            "label": "Patio existant a conserver",
+            "input_type": "r",
             "sort_order": 10
         },
         {
             "id": 77,
-            "code": "11.1.1",
-            "step": 11,
-            "parent_code": "11.1",
-            "label": "Patio existant à conserver",
-            "input_type": "radio",
-            "sort_order": 11
-        },
-        {
-            "id": 78,
             "code": "11.1.1.1",
             "step": 11,
             "parent_code": "11.1.1",
             "label": "Accès au niveau du sol uniquement",
-            "input_type": "checkbox",
-            "sort_order": 12
-        },
-        {
-            "id": 79,
-            "code": "11.1.1.2",
-            "step": 11,
-            "parent_code": "11.1.1",
-            "label": "Section pour manger",
-            "input_type": "checkbox",
-            "sort_order": 13
-        },
-        {
-            "id": 80,
-            "code": "11.1.1.3",
-            "step": 11,
-            "parent_code": "11.1.1",
-            "label": "Section lounge",
-            "input_type": "checkbox",
-            "sort_order": 14
-        },
-        {
-            "id": 81,
-            "code": "11.1.1.4",
-            "step": 11,
-            "parent_code": "11.1.1",
-            "label": "Coin bar",
-            "input_type": "checkbox",
-            "sort_order": 15
-        },
-        {
-            "id": 82,
-            "code": "11.1.1.5",
-            "step": 11,
-            "parent_code": "11.1.1",
-            "label": "Toit existant",
-            "input_type": "checkbox",
-            "sort_order": 16
-        },
-        {
-            "id": 83,
-            "code": "11.1.1.6",
-            "step": 11,
-            "parent_code": "11.1.1",
-            "label": "Ajout d'un toit",
-            "input_type": "checkbox",
-            "sort_order": 17
-        },
-        {
-            "id": 84,
-            "code": "11.1.1.7",
-            "step": 11,
-            "parent_code": "11.1.1",
-            "label": "Solarium",
-            "input_type": "checkbox",
-            "sort_order": 18
-        },
-        {
-            "id": 85,
-            "code": "11.1.1.8",
-            "step": 11,
-            "parent_code": "11.1.1",
-            "label": "Pergola, Auvent, Gazebo",
-            "input_type": "checkbox",
-            "sort_order": 19
+            "input_type": "c",
+            "sort_order": 10
         },
         {
             "id": 86,
-            "code": "11.1.2",
-            "step": 11,
-            "parent_code": "11.1",
-            "label": "Patio existant à modifier",
-            "input_type": "radio",
-            "sort_order": 21
-        },
-        {
-            "id": 87,
             "code": "11.1.2.1",
             "step": 11,
             "parent_code": "11.1.2",
             "label": "Accès au niveau du sol uniquement",
-            "input_type": "checkbox",
-            "sort_order": 22
-        },
-        {
-            "id": 88,
-            "code": "11.1.2.2",
-            "step": 11,
-            "parent_code": "11.1.2",
-            "label": "Section pour manger",
-            "input_type": "checkbox",
-            "sort_order": 23
-        },
-        {
-            "id": 89,
-            "code": "11.1.2.3",
-            "step": 11,
-            "parent_code": "11.1.2",
-            "label": "Section lounge",
-            "input_type": "checkbox",
-            "sort_order": 24
-        },
-        {
-            "id": 90,
-            "code": "11.1.2.4",
-            "step": 11,
-            "parent_code": "11.1.2",
-            "label": "Coin bar",
-            "input_type": "checkbox",
-            "sort_order": 25
-        },
-        {
-            "id": 91,
-            "code": "11.1.2.5",
-            "step": 11,
-            "parent_code": "11.1.2",
-            "label": "Toit existant",
-            "input_type": "checkbox",
-            "sort_order": 26
-        },
-        {
-            "id": 92,
-            "code": "11.1.2.6",
-            "step": 11,
-            "parent_code": "11.1.2",
-            "label": "Ajout d'un toit",
-            "input_type": "checkbox",
-            "sort_order": 27
-        },
-        {
-            "id": 93,
-            "code": "11.1.2.7",
-            "step": 11,
-            "parent_code": "11.1.2",
-            "label": "Solarium",
-            "input_type": "checkbox",
-            "sort_order": 28
-        },
-        {
-            "id": 94,
-            "code": "11.1.2.8",
-            "step": 11,
-            "parent_code": "11.1.2",
-            "label": "Pergola, Auvent, Gazebo",
-            "input_type": "checkbox",
-            "sort_order": 29
+            "input_type": "c",
+            "sort_order": 10
         },
         {
             "id": 95,
-            "code": "11.1.3",
-            "step": 11,
-            "parent_code": "11.1",
-            "label": "Patio à créer",
-            "input_type": "radio",
-            "sort_order": 31
-        },
-        {
-            "id": 96,
             "code": "11.1.3.1",
             "step": 11,
             "parent_code": "11.1.3",
             "label": "Accès au niveau du sol uniquement",
-            "input_type": "checkbox",
-            "sort_order": 32
-        },
-        {
-            "id": 97,
-            "code": "11.1.3.2",
-            "step": 11,
-            "parent_code": "11.1.3",
-            "label": "Section pour manger",
-            "input_type": "checkbox",
-            "sort_order": 33
-        },
-        {
-            "id": 98,
-            "code": "11.1.3.3",
-            "step": 11,
-            "parent_code": "11.1.3",
-            "label": "Section lounge",
-            "input_type": "checkbox",
-            "sort_order": 34
-        },
-        {
-            "id": 99,
-            "code": "11.1.3.4",
-            "step": 11,
-            "parent_code": "11.1.3",
-            "label": "Coin bar",
-            "input_type": "checkbox",
-            "sort_order": 35
-        },
-        {
-            "id": 100,
-            "code": "11.1.3.5",
-            "step": 11,
-            "parent_code": "11.1.3",
-            "label": "Toit existant",
-            "input_type": "checkbox",
-            "sort_order": 36
-        },
-        {
-            "id": 101,
-            "code": "11.1.3.6",
-            "step": 11,
-            "parent_code": "11.1.3",
-            "label": "Ajout d'un toit",
-            "input_type": "checkbox",
-            "sort_order": 37
-        },
-        {
-            "id": 102,
-            "code": "11.1.3.7",
-            "step": 11,
-            "parent_code": "11.1.3",
-            "label": "Solarium",
-            "input_type": "checkbox",
-            "sort_order": 38
-        },
-        {
-            "id": 103,
-            "code": "11.1.3.8",
-            "step": 11,
-            "parent_code": "11.1.3",
-            "label": "Pergola, Auvent, Gazebo",
-            "input_type": "checkbox",
-            "sort_order": 39
+            "input_type": "c",
+            "sort_order": 10
         },
         {
             "id": 104,
-            "code": "11.2",
-            "step": 11,
-            "parent_code": "11",
-            "label": "Terrasse au sol",
-            "input_type": "checkbox",
-            "sort_order": 50
-        },
-        {
-            "id": 105,
             "code": "11.2.1",
             "step": 11,
             "parent_code": "11.2",
             "label": "Section pour manger",
-            "input_type": "checkbox",
-            "sort_order": 51
-        },
-        {
-            "id": 106,
-            "code": "11.2.2",
-            "step": 11,
-            "parent_code": "11.2",
-            "label": "Section lounge",
-            "input_type": "checkbox",
-            "sort_order": 52
-        },
-        {
-            "id": 107,
-            "code": "11.2.3",
-            "step": 11,
-            "parent_code": "11.2",
-            "label": "Coin bar",
-            "input_type": "checkbox",
-            "sort_order": 53
+            "input_type": "c",
+            "sort_order": 10
         },
         {
             "id": 108,
-            "code": "11.2.4",
-            "step": 11,
-            "parent_code": "11.2",
-            "label": "Cuisine extérieure",
-            "input_type": "checkbox",
-            "sort_order": 60
-        },
-        {
-            "id": 109,
             "code": "11.2.4.1",
             "step": 11,
             "parent_code": "11.2.4",
             "label": "Barbecue",
-            "input_type": "checkbox",
-            "sort_order": 61
-        },
-        {
-            "id": 110,
-            "code": "11.2.4.2",
-            "step": 11,
-            "parent_code": "11.2.4",
-            "label": "Plancha",
-            "input_type": "checkbox",
-            "sort_order": 62
-        },
-        {
-            "id": 111,
-            "code": "11.2.4.3",
-            "step": 11,
-            "parent_code": "11.2.4",
-            "label": "Kamado",
-            "input_type": "checkbox",
-            "sort_order": 63
-        },
-        {
-            "id": 112,
-            "code": "11.2.4.4",
-            "step": 11,
-            "parent_code": "11.2.4",
-            "label": "Fumoir",
-            "input_type": "checkbox",
-            "sort_order": 64
-        },
-        {
-            "id": 113,
-            "code": "11.2.4.5",
-            "step": 11,
-            "parent_code": "11.2.4",
-            "label": "Four à pizza",
-            "input_type": "checkbox",
-            "sort_order": 65
-        },
-        {
-            "id": 114,
-            "code": "11.2.4.6",
-            "step": 11,
-            "parent_code": "11.2.4",
-            "label": "Frigo",
-            "input_type": "checkbox",
-            "sort_order": 66
-        },
-        {
-            "id": 115,
-            "code": "11.2.4.7",
-            "step": 11,
-            "parent_code": "11.2.4",
-            "label": "Évier",
-            "input_type": "checkbox",
-            "sort_order": 67
-        },
-        {
-            "id": 116,
-            "code": "11.2.4.8",
-            "step": 11,
-            "parent_code": "11.2.4",
-            "label": "Rangement",
-            "input_type": "checkbox",
-            "sort_order": 68
-        },
-        {
-            "id": 117,
-            "code": "11.2.4.9",
-            "step": 11,
-            "parent_code": "11.2.4",
-            "label": "Machine à glace",
-            "input_type": "checkbox",
-            "sort_order": 69
-        },
-        {
-            "id": 118,
-            "code": "11.2.4.10",
-            "step": 11,
-            "parent_code": "11.2.4",
-            "label": "Grill",
-            "input_type": "checkbox",
-            "sort_order": 70
-        },
-        {
-            "id": 119,
-            "code": "11.2.5",
-            "step": 11,
-            "parent_code": "11.2",
-            "label": "Coin lecture",
-            "input_type": "checkbox",
-            "sort_order": 80
+            "input_type": "c",
+            "sort_order": 10
         },
         {
             "id": 120,
-            "code": "11.2.6",
-            "step": 11,
-            "parent_code": "11.2",
-            "label": "Coin feu",
-            "input_type": "checkbox",
-            "sort_order": 90
-        },
-        {
-            "id": 121,
             "code": "11.2.6.1",
             "step": 11,
             "parent_code": "11.2.6",
             "label": "Encastrer dans le sol",
-            "input_type": "checkbox",
-            "sort_order": 91
+            "input_type": "c",
+            "sort_order": 10
         },
         {
             "id": 122,
-            "code": "11.2.7",
-            "step": 11,
-            "parent_code": "11.2",
-            "label": "Section jardin",
-            "input_type": "checkbox",
-            "sort_order": 100
-        },
-        {
-            "id": 123,
             "code": "11.2.7.1",
             "step": 11,
             "parent_code": "11.2.7",
             "label": "Bac sur pied",
-            "input_type": "checkbox",
-            "sort_order": 101
-        },
-        {
-            "id": 124,
-            "code": "11.2.7.2",
-            "step": 11,
-            "parent_code": "11.2.7",
-            "label": "Jardin au sol",
-            "input_type": "checkbox",
-            "sort_order": 102
-        },
-        {
-            "id": 125,
-            "code": "11.2.7.3",
-            "step": 11,
-            "parent_code": "11.2.7",
-            "label": "Prévoir un rangement",
-            "input_type": "checkbox",
-            "sort_order": 103
-        },
-        {
-            "id": 126,
-            "code": "11.2.7.4",
-            "step": 11,
-            "parent_code": "11.2.7",
-            "label": "Balancoire",
-            "input_type": "checkbox",
-            "sort_order": 104
+            "input_type": "c",
+            "sort_order": 10
         },
         {
             "id": 127,
-            "code": "11.3",
-            "step": 11,
-            "parent_code": "11",
-            "label": "Piscine, spa et sauna",
-            "input_type": "checkbox",
-            "sort_order": 110
-        },
-        {
-            "id": 128,
             "code": "11.3.1",
             "step": 11,
             "parent_code": "11.3",
-            "label": "Piscine creusée existante",
-            "input_type": "checkbox",
-            "sort_order": 111
+            "label": "Piscine creusé existante",
+            "input_type": "r",
+            "sort_order": 10
         },
         {
-            "id": 129,
+            "id": 128,
             "code": "11.3.1.1",
             "step": 11,
             "parent_code": "11.3.1",
-            "label": "Rien à modifier",
-            "input_type": "radio",
-            "sort_order": 112
-        },
-        {
-            "id": 130,
-            "code": "11.3.1.2",
-            "step": 11,
-            "parent_code": "11.3.1",
-            "label": "Tout revoir dans cette section",
-            "input_type": "radio",
-            "sort_order": 113
-        },
-        {
-            "id": 131,
-            "code": "11.3.1.3",
-            "step": 11,
-            "parent_code": "11.3.1",
-            "label": "Modifier la piscine (Marches, toile, lumières, autres)",
-            "input_type": "radio",
-            "sort_order": 114
+            "label": "Rien a modifier",
+            "input_type": "r",
+            "sort_order": 10
         },
         {
             "id": 132,
-            "code": "11.3.2",
-            "step": 11,
-            "parent_code": "11.3",
-            "label": "Nouvelle piscine creusée",
-            "input_type": "checkbox",
-            "sort_order": 120
-        },
-        {
-            "id": 133,
             "code": "11.3.2.1",
             "step": 11,
             "parent_code": "11.3.2",
             "label": "Section chaises longues",
-            "input_type": "checkbox",
-            "sort_order": 121
-        },
-        {
-            "id": 134,
-            "code": "11.3.2.2",
-            "step": 11,
-            "parent_code": "11.3.2",
-            "label": "Section lounge",
-            "input_type": "checkbox",
-            "sort_order": 122
-        },
-        {
-            "id": 135,
-            "code": "11.3.2.3",
-            "step": 11,
-            "parent_code": "11.3.2",
-            "label": "Section encastrée au niveau de la piscine",
-            "input_type": "checkbox",
-            "sort_order": 123
-        },
-        {
-            "id": 136,
-            "code": "11.3.2.4",
-            "step": 11,
-            "parent_code": "11.3.2",
-            "label": "Intégrer un spa à la piscine",
-            "input_type": "checkbox",
-            "sort_order": 124
-        },
-        {
-            "id": 137,
-            "code": "11.3.2.5",
-            "step": 11,
-            "parent_code": "11.3.2",
-            "label": "Piscine à débordement (Attention piscine à 100k$ et +)",
-            "input_type": "checkbox",
-            "sort_order": 125
-        },
-        {
-            "id": 138,
-            "code": "11.3.2.6",
-            "step": 11,
-            "parent_code": "11.3.2",
-            "label": "Lame d'eau avec couleur dans un muret",
-            "input_type": "checkbox",
-            "sort_order": 126
-        },
-        {
-            "id": 139,
-            "code": "11.3.2.7",
-            "step": 11,
-            "parent_code": "11.3.2",
-            "label": "Chute d'eau en grosse pierre naturelle",
-            "input_type": "checkbox",
-            "sort_order": 127
-        },
-        {
-            "id": 140,
-            "code": "11.3.2.8",
-            "step": 11,
-            "parent_code": "11.3.2",
-            "label": "Pergola ou autre structure d'ombrage",
-            "input_type": "checkbox",
-            "sort_order": 128
-        },
-        {
-            "id": 141,
-            "code": "11.3.3",
-            "step": 11,
-            "parent_code": "11.3",
-            "label": "Piscine hors terre existante",
-            "input_type": "checkbox",
-            "sort_order": 130
+            "input_type": "c",
+            "sort_order": 10
         },
         {
             "id": 142,
-            "code": "11.3.4",
-            "step": 11,
-            "parent_code": "11.3",
-            "label": "Nouvelle piscine hors terre",
-            "input_type": "checkbox",
-            "sort_order": 140
-        },
-        {
-            "id": 143,
             "code": "11.3.4.1",
             "step": 11,
             "parent_code": "11.3.4",
             "label": "Concevoir une plateforme séparée",
-            "input_type": "checkbox",
-            "sort_order": 141
-        },
-        {
-            "id": 144,
-            "code": "11.3.4.2",
-            "step": 11,
-            "parent_code": "11.3.4",
-            "label": "À intégrer au patio existant",
-            "input_type": "checkbox",
-            "sort_order": 142
+            "input_type": "c",
+            "sort_order": 10
         },
         {
             "id": 145,
-            "code": "11.3.5",
-            "step": 11,
-            "parent_code": "11.3",
-            "label": "Spa à intégrer",
-            "input_type": "checkbox",
-            "sort_order": 150
-        },
-        {
-            "id": 146,
             "code": "11.3.5.1",
             "step": 11,
             "parent_code": "11.3.5",
-            "label": "Spa couvert",
-            "input_type": "checkbox",
-            "sort_order": 151
+            "label": "J'aimerais le spa couvert",
+            "input_type": "c",
+            "sort_order": 10
         },
         {
-            "id": 147,
+            "id": 78,
+            "code": "11.1.1.2",
+            "step": 11,
+            "parent_code": "11.1.1",
+            "label": "Section pour manger",
+            "input_type": "c",
+            "sort_order": 20
+        },
+        {
+            "id": 85,
+            "code": "11.1.2",
+            "step": 11,
+            "parent_code": "11.1",
+            "label": "Patio existant a modifier",
+            "input_type": "r",
+            "sort_order": 20
+        },
+        {
+            "id": 87,
+            "code": "11.1.2.2",
+            "step": 11,
+            "parent_code": "11.1.2",
+            "label": "Section pour manger",
+            "input_type": "c",
+            "sort_order": 20
+        },
+        {
+            "id": 96,
+            "code": "11.1.3.2",
+            "step": 11,
+            "parent_code": "11.1.3",
+            "label": "Section pour manger",
+            "input_type": "c",
+            "sort_order": 20
+        },
+        {
+            "id": 103,
+            "code": "11.2",
+            "step": 11,
+            "parent_code": "11",
+            "label": "Terrasse au sol",
+            "input_type": "c",
+            "sort_order": 20
+        },
+        {
+            "id": 105,
+            "code": "11.2.2",
+            "step": 11,
+            "parent_code": "11.2",
+            "label": "Section lounge",
+            "input_type": "c",
+            "sort_order": 20
+        },
+        {
+            "id": 109,
+            "code": "11.2.4.2",
+            "step": 11,
+            "parent_code": "11.2.4",
+            "label": "Plancha",
+            "input_type": "c",
+            "sort_order": 20
+        },
+        {
+            "id": 123,
+            "code": "11.2.7.2",
+            "step": 11,
+            "parent_code": "11.2.7",
+            "label": "Jardin au sol",
+            "input_type": "c",
+            "sort_order": 20
+        },
+        {
+            "id": 129,
+            "code": "11.3.1.2",
+            "step": 11,
+            "parent_code": "11.3.1",
+            "label": "Tout revoir dans cette section",
+            "input_type": "r",
+            "sort_order": 20
+        },
+        {
+            "id": 131,
+            "code": "11.3.2",
+            "step": 11,
+            "parent_code": "11.3",
+            "label": "Nouvelle piscine creusé",
+            "input_type": "r",
+            "sort_order": 20
+        },
+        {
+            "id": 133,
+            "code": "11.3.2.2",
+            "step": 11,
+            "parent_code": "11.3.2",
+            "label": "Section lounge",
+            "input_type": "c",
+            "sort_order": 20
+        },
+        {
+            "id": 143,
+            "code": "11.3.4.2",
+            "step": 11,
+            "parent_code": "11.3.4",
+            "label": "A intégrer au patio existant",
+            "input_type": "c",
+            "sort_order": 20
+        },
+        {
+            "id": 146,
             "code": "11.3.5.2",
             "step": 11,
             "parent_code": "11.3.5",
             "label": "Encastrer dans le sol",
-            "input_type": "checkbox",
-            "sort_order": 152
+            "input_type": "c",
+            "sort_order": 20
         },
         {
-            "id": 148,
+            "id": 79,
+            "code": "11.1.1.3",
+            "step": 11,
+            "parent_code": "11.1.1",
+            "label": "Section lounge",
+            "input_type": "c",
+            "sort_order": 30
+        },
+        {
+            "id": 88,
+            "code": "11.1.2.3",
+            "step": 11,
+            "parent_code": "11.1.2",
+            "label": "Section lounge",
+            "input_type": "c",
+            "sort_order": 30
+        },
+        {
+            "id": 94,
+            "code": "11.1.3",
+            "step": 11,
+            "parent_code": "11.1",
+            "label": "Patio a créer",
+            "input_type": "r",
+            "sort_order": 30
+        },
+        {
+            "id": 97,
+            "code": "11.1.3.3",
+            "step": 11,
+            "parent_code": "11.1.3",
+            "label": "Section lounge",
+            "input_type": "c",
+            "sort_order": 30
+        },
+        {
+            "id": 106,
+            "code": "11.2.3",
+            "step": 11,
+            "parent_code": "11.2",
+            "label": "Coin bar",
+            "input_type": "c",
+            "sort_order": 30
+        },
+        {
+            "id": 110,
+            "code": "11.2.4.3",
+            "step": 11,
+            "parent_code": "11.2.4",
+            "label": "Kamado",
+            "input_type": "c",
+            "sort_order": 30
+        },
+        {
+            "id": 124,
+            "code": "11.2.7.3",
+            "step": 11,
+            "parent_code": "11.2.7",
+            "label": "Prévoir un rangement",
+            "input_type": "c",
+            "sort_order": 30
+        },
+        {
+            "id": 126,
+            "code": "11.3",
+            "step": 11,
+            "parent_code": "11",
+            "label": "Piscine, spa et sauna",
+            "input_type": "c",
+            "sort_order": 30
+        },
+        {
+            "id": 130,
+            "code": "11.3.1.3",
+            "step": 11,
+            "parent_code": "11.3.1",
+            "label": "Modifier la piscine Marches, toile, lumières, autre",
+            "input_type": "r",
+            "sort_order": 30
+        },
+        {
+            "id": 134,
+            "code": "11.3.2.3",
+            "step": 11,
+            "parent_code": "11.3.2",
+            "label": "Section encastrée au niveau de la piscine",
+            "input_type": "c",
+            "sort_order": 30
+        },
+        {
+            "id": 140,
+            "code": "11.3.3",
+            "step": 11,
+            "parent_code": "11.3",
+            "label": "Piscine hors terre existante",
+            "input_type": "r",
+            "sort_order": 30
+        },
+        {
+            "id": 147,
             "code": "11.3.5.3",
             "step": 11,
             "parent_code": "11.3.5",
             "label": "Spa de nage",
-            "input_type": "checkbox",
-            "sort_order": 153
+            "input_type": "c",
+            "sort_order": 30
         },
         {
-            "id": 149,
+            "id": 80,
+            "code": "11.1.1.4",
+            "step": 11,
+            "parent_code": "11.1.1",
+            "label": "Coin bar",
+            "input_type": "c",
+            "sort_order": 40
+        },
+        {
+            "id": 89,
+            "code": "11.1.2.4",
+            "step": 11,
+            "parent_code": "11.1.2",
+            "label": "Coin bar",
+            "input_type": "c",
+            "sort_order": 40
+        },
+        {
+            "id": 98,
+            "code": "11.1.3.4",
+            "step": 11,
+            "parent_code": "11.1.3",
+            "label": "Coin bar",
+            "input_type": "c",
+            "sort_order": 40
+        },
+        {
+            "id": 107,
+            "code": "11.2.4",
+            "step": 11,
+            "parent_code": "11.2",
+            "label": "Cuisine extérieur",
+            "input_type": "c",
+            "sort_order": 40
+        },
+        {
+            "id": 111,
+            "code": "11.2.4.4",
+            "step": 11,
+            "parent_code": "11.2.4",
+            "label": "Fumoir",
+            "input_type": "c",
+            "sort_order": 40
+        },
+        {
+            "id": 125,
+            "code": "11.2.7.4",
+            "step": 11,
+            "parent_code": "11.2.7",
+            "label": "Balancoire",
+            "input_type": "c",
+            "sort_order": 40
+        },
+        {
+            "id": 135,
+            "code": "11.3.2.4",
+            "step": 11,
+            "parent_code": "11.3.2",
+            "label": "Intégrer un spa a la piscine",
+            "input_type": "c",
+            "sort_order": 40
+        },
+        {
+            "id": 141,
+            "code": "11.3.4",
+            "step": 11,
+            "parent_code": "11.3",
+            "label": "Nouvelle piscine hors terre",
+            "input_type": "r",
+            "sort_order": 40
+        },
+        {
+            "id": 81,
+            "code": "11.1.1.5",
+            "step": 11,
+            "parent_code": "11.1.1",
+            "label": "Toit existant",
+            "input_type": "c",
+            "sort_order": 50
+        },
+        {
+            "id": 90,
+            "code": "11.1.2.5",
+            "step": 11,
+            "parent_code": "11.1.2",
+            "label": "Toit existant",
+            "input_type": "c",
+            "sort_order": 50
+        },
+        {
+            "id": 99,
+            "code": "11.1.3.5",
+            "step": 11,
+            "parent_code": "11.1.3",
+            "label": "Toit existant",
+            "input_type": "c",
+            "sort_order": 50
+        },
+        {
+            "id": 112,
+            "code": "11.2.4.5",
+            "step": 11,
+            "parent_code": "11.2.4",
+            "label": "Four a pizza",
+            "input_type": "c",
+            "sort_order": 50
+        },
+        {
+            "id": 118,
+            "code": "11.2.5",
+            "step": 11,
+            "parent_code": "11.2",
+            "label": "Coin lecture",
+            "input_type": "c",
+            "sort_order": 50
+        },
+        {
+            "id": 136,
+            "code": "11.3.2.5",
+            "step": 11,
+            "parent_code": "11.3.2",
+            "label": "Piscine a débordement Attention piscine a 100K+",
+            "input_type": "c",
+            "sort_order": 50
+        },
+        {
+            "id": 144,
+            "code": "11.3.5",
+            "step": 11,
+            "parent_code": "11.3",
+            "label": "Spa a intégrer au projet",
+            "input_type": "c",
+            "sort_order": 50
+        },
+        {
+            "id": 82,
+            "code": "11.1.1.6",
+            "step": 11,
+            "parent_code": "11.1.1",
+            "label": "Ajout d'un toit",
+            "input_type": "c",
+            "sort_order": 60
+        },
+        {
+            "id": 91,
+            "code": "11.1.2.6",
+            "step": 11,
+            "parent_code": "11.1.2",
+            "label": "Ajout d'un toit",
+            "input_type": "c",
+            "sort_order": 60
+        },
+        {
+            "id": 100,
+            "code": "11.1.3.6",
+            "step": 11,
+            "parent_code": "11.1.3",
+            "label": "Ajout d'un toit",
+            "input_type": "c",
+            "sort_order": 60
+        },
+        {
+            "id": 113,
+            "code": "11.2.4.6",
+            "step": 11,
+            "parent_code": "11.2.4",
+            "label": "Frigo",
+            "input_type": "c",
+            "sort_order": 60
+        },
+        {
+            "id": 119,
+            "code": "11.2.6",
+            "step": 11,
+            "parent_code": "11.2",
+            "label": "Coin feu",
+            "input_type": "c",
+            "sort_order": 60
+        },
+        {
+            "id": 137,
+            "code": "11.3.2.6",
+            "step": 11,
+            "parent_code": "11.3.2",
+            "label": "Lame d'eau avec couleur dans un muret ",
+            "input_type": "c",
+            "sort_order": 60
+        },
+        {
+            "id": 148,
             "code": "11.3.6",
             "step": 11,
             "parent_code": "11.3",
-            "label": "Sauna à intégrer",
-            "input_type": "checkbox",
-            "sort_order": 160
+            "label": "Sauna a intégrer au projet",
+            "input_type": "c",
+            "sort_order": 60
         },
         {
-            "id": 248,
-            "code": "12",
-            "step": 12,
+            "id": 83,
+            "code": "11.1.1.7",
+            "step": 11,
+            "parent_code": "11.1.1",
+            "label": "Solarium",
+            "input_type": "c",
+            "sort_order": 70
+        },
+        {
+            "id": 92,
+            "code": "11.1.2.7",
+            "step": 11,
+            "parent_code": "11.1.2",
+            "label": "Solarium",
+            "input_type": "c",
+            "sort_order": 70
+        },
+        {
+            "id": 101,
+            "code": "11.1.3.7",
+            "step": 11,
+            "parent_code": "11.1.3",
+            "label": "Solarium",
+            "input_type": "c",
+            "sort_order": 70
+        },
+        {
+            "id": 114,
+            "code": "11.2.4.7",
+            "step": 11,
+            "parent_code": "11.2.4",
+            "label": "Évier",
+            "input_type": "c",
+            "sort_order": 70
+        },
+        {
+            "id": 121,
+            "code": "11.2.7",
+            "step": 11,
+            "parent_code": "11.2",
+            "label": "Section jardin",
+            "input_type": "c",
+            "sort_order": 70
+        },
+        {
+            "id": 138,
+            "code": "11.3.2.7",
+            "step": 11,
+            "parent_code": "11.3.2",
+            "label": "Chute d'eau en grosse pierre naturelle",
+            "input_type": "c",
+            "sort_order": 70
+        },
+        {
+            "id": 84,
+            "code": "11.1.1.8",
+            "step": 11,
+            "parent_code": "11.1.1",
+            "label": "Pergola, Auvent, Gazebo",
+            "input_type": "c",
+            "sort_order": 80
+        },
+        {
+            "id": 93,
+            "code": "11.1.2.8",
+            "step": 11,
+            "parent_code": "11.1.2",
+            "label": "Pergola, Auvent, Gazebo",
+            "input_type": "c",
+            "sort_order": 80
+        },
+        {
+            "id": 102,
+            "code": "11.1.3.8",
+            "step": 11,
+            "parent_code": "11.1.3",
+            "label": "Pergola, Auvent, Gazebo",
+            "input_type": "c",
+            "sort_order": 80
+        },
+        {
+            "id": 115,
+            "code": "11.2.4.8",
+            "step": 11,
+            "parent_code": "11.2.4",
+            "label": "Rangement",
+            "input_type": "c",
+            "sort_order": 80
+        },
+        {
+            "id": 139,
+            "code": "11.3.2.8",
+            "step": 11,
+            "parent_code": "11.3.2",
+            "label": "Pergola ou autre structure d'ombrage",
+            "input_type": "c",
+            "sort_order": 80
+        },
+        {
+            "id": 116,
+            "code": "11.2.4.9",
+            "step": 11,
+            "parent_code": "11.2.4",
+            "label": "Machine a glace",
+            "input_type": "c",
+            "sort_order": 90
+        },
+        {
+            "id": 74,
+            "code": "11",
+            "step": 11,
             "parent_code": null,
-            "label": "Bâtiments",
-            "input_type": "group",
-            "sort_order": 0
+            "label": "Information Arrière",
+            "input_type": null,
+            "sort_order": 100
         },
         {
-            "id": 249,
+            "id": 117,
+            "code": "11.2.4.10",
+            "step": 11,
+            "parent_code": "11.2.4",
+            "label": "Grill",
+            "input_type": "c",
+            "sort_order": 100
+        },
+        {
+            "id": 150,
             "code": "12.1",
             "step": 12,
             "parent_code": "12",
             "label": "Cabanon",
-            "input_type": "checkbox",
+            "input_type": "c",
             "sort_order": 10
         },
         {
-            "id": 250,
+            "id": 151,
             "code": "12.1.1",
             "step": 12,
             "parent_code": "12.1",
             "label": "Cabanon a conserver",
-            "input_type": "radio",
-            "sort_order": 11
+            "input_type": "r",
+            "sort_order": 10
         },
         {
-            "id": 251,
+            "id": 152,
             "code": "12.1.1.1",
             "step": 12,
             "parent_code": "12.1.1",
-            "label": "Cabanon a déplacer",
-            "input_type": "checkbox",
-            "sort_order": 12
+            "label": "A déplacer",
+            "input_type": "r",
+            "sort_order": 10
         },
         {
-            "id": 252,
-            "code": "12.1.1.2",
-            "step": 12,
-            "parent_code": "12.1.1",
-            "label": "Cabanon a modifier",
-            "input_type": "checkbox",
-            "sort_order": 13
-        },
-        {
-            "id": 253,
-            "code": "12.1.2",
-            "step": 12,
-            "parent_code": "12.1",
-            "label": "Nouveau cabanon",
-            "input_type": "radio",
-            "sort_order": 14
-        },
-        {
-            "id": 254,
-            "code": "12.2",
-            "step": 12,
-            "parent_code": "12",
-            "label": "Pavillon de piscine",
-            "input_type": "checkbox",
-            "sort_order": 20
-        },
-        {
-            "id": 255,
+            "id": 156,
             "code": "12.2.1",
             "step": 12,
             "parent_code": "12.2",
-            "label": "Petit toit simple pour section lounge ou manger",
-            "input_type": "checkbox",
-            "sort_order": 21
+            "label": "Section fermée avec rangement",
+            "input_type": "c",
+            "sort_order": 10
         },
         {
-            "id": 256,
-            "code": "12.2.2",
+            "id": 170,
+            "code": "12.2.14.1",
             "step": 12,
-            "parent_code": "12.2",
-            "label": "Section pour manger sous la section fermée",
-            "input_type": "checkbox",
-            "sort_order": 22
-        },
-        {
-            "id": 257,
-            "code": "12.2.3",
-            "step": 12,
-            "parent_code": "12.2",
-            "label": "Espace feu a prévoir",
-            "input_type": "checkbox",
-            "sort_order": 23
-        },
-        {
-            "id": 258,
-            "code": "12.2.4",
-            "step": 12,
-            "parent_code": "12.2",
-            "label": "Petit coin bar",
-            "input_type": "checkbox",
-            "sort_order": 24
-        },
-        {
-            "id": 259,
-            "code": "12.2.5",
-            "step": 12,
-            "parent_code": "12.2",
-            "label": "Bar complet",
-            "input_type": "checkbox",
-            "sort_order": 25
-        },
-        {
-            "id": 260,
-            "code": "12.2.6",
-            "step": 12,
-            "parent_code": "12.2",
-            "label": "Barbecue",
-            "input_type": "checkbox",
-            "sort_order": 26
-        },
-        {
-            "id": 261,
-            "code": "12.2.7",
-            "step": 12,
-            "parent_code": "12.2",
-            "label": "Cuisine extérieure complète",
-            "input_type": "checkbox",
-            "sort_order": 27
-        },
-        {
-            "id": 262,
-            "code": "12.2.8",
-            "step": 12,
-            "parent_code": "12.2",
-            "label": "Prévoir une télévision",
-            "input_type": "checkbox",
-            "sort_order": 28
-        },
-        {
-            "id": 263,
-            "code": "12.2.9",
-            "step": 12,
-            "parent_code": "12.2",
-            "label": "Je veux fermer le pavillon avec portes\/fenetres",
-            "input_type": "checkbox",
-            "sort_order": 29
-        },
-        {
-            "id": 264,
-            "code": "12.2.10",
-            "step": 12,
-            "parent_code": "12.2",
-            "label": "Moustiquaire automatique",
-            "input_type": "checkbox",
-            "sort_order": 30
-        },
-        {
-            "id": 265,
-            "code": "12.2.11",
-            "step": 12,
-            "parent_code": "12.2",
-            "label": "Toilette",
-            "input_type": "checkbox",
-            "sort_order": 31
-        },
-        {
-            "id": 266,
-            "code": "12.2.12",
-            "step": 12,
-            "parent_code": "12.2",
-            "label": "Section jeux (table de pool, etc.)",
-            "input_type": "checkbox",
-            "sort_order": 32
-        },
-        {
-            "id": 267,
-            "code": "12.2.13",
-            "step": 12,
-            "parent_code": "12.2",
-            "label": "Autres",
-            "input_type": "checkbox",
-            "sort_order": 33
-        },
-        {
-            "id": 268,
-            "code": "12.2.13.1",
-            "step": 12,
-            "parent_code": "12.2.13",
-            "label": "Autres (description)",
+            "parent_code": "12.2.14",
+            "label": "Text-Input",
             "input_type": "text",
-            "sort_order": 34
+            "sort_order": 10
         },
         {
-            "id": 269,
-            "code": "12.3",
-            "step": 12,
-            "parent_code": "12",
-            "label": "Pavillon autre que la section piscine",
-            "input_type": "checkbox",
-            "sort_order": 40
-        },
-        {
-            "id": 270,
+            "id": 172,
             "code": "12.3.1",
             "step": 12,
             "parent_code": "12.3",
             "label": "Section fermée avec rangement",
-            "input_type": "checkbox",
-            "sort_order": 41
+            "input_type": "c",
+            "sort_order": 10
         },
         {
-            "id": 271,
-            "code": "12.3.2",
-            "step": 12,
-            "parent_code": "12.3",
-            "label": "Section lounge sous la section fermée",
-            "input_type": "checkbox",
-            "sort_order": 42
-        },
-        {
-            "id": 272,
-            "code": "12.3.3",
-            "step": 12,
-            "parent_code": "12.3",
-            "label": "Section pour manger sous la section fermée",
-            "input_type": "checkbox",
-            "sort_order": 43
-        },
-        {
-            "id": 273,
-            "code": "12.3.4",
-            "step": 12,
-            "parent_code": "12.3",
-            "label": "Espace feu a prévoir",
-            "input_type": "checkbox",
-            "sort_order": 44
-        },
-        {
-            "id": 274,
-            "code": "12.3.5",
-            "step": 12,
-            "parent_code": "12.3",
-            "label": "Petit coin bar",
-            "input_type": "checkbox",
-            "sort_order": 45
-        },
-        {
-            "id": 275,
-            "code": "12.3.6",
-            "step": 12,
-            "parent_code": "12.3",
-            "label": "Bar complet",
-            "input_type": "checkbox",
-            "sort_order": 46
-        },
-        {
-            "id": 276,
-            "code": "12.3.7",
-            "step": 12,
-            "parent_code": "12.3",
-            "label": "Barbecue",
-            "input_type": "checkbox",
-            "sort_order": 47
-        },
-        {
-            "id": 277,
-            "code": "12.3.8",
-            "step": 12,
-            "parent_code": "12.3",
-            "label": "Cuisine extérieure complète",
-            "input_type": "checkbox",
-            "sort_order": 48
-        },
-        {
-            "id": 278,
-            "code": "12.3.9",
-            "step": 12,
-            "parent_code": "12.3",
-            "label": "Prévoir une télévision",
-            "input_type": "checkbox",
-            "sort_order": 49
-        },
-        {
-            "id": 279,
-            "code": "12.3.10",
-            "step": 12,
-            "parent_code": "12.3",
-            "label": "Je veux fermer le pavillon avec portes\/fenetres",
-            "input_type": "checkbox",
-            "sort_order": 50
-        },
-        {
-            "id": 280,
-            "code": "12.3.11",
-            "step": 12,
-            "parent_code": "12.3",
-            "label": "Moustiquaire automatique",
-            "input_type": "checkbox",
-            "sort_order": 51
-        },
-        {
-            "id": 281,
-            "code": "12.3.12",
-            "step": 12,
-            "parent_code": "12.3",
-            "label": "Toilette",
-            "input_type": "checkbox",
-            "sort_order": 52
-        },
-        {
-            "id": 282,
-            "code": "12.3.13",
-            "step": 12,
-            "parent_code": "12.3",
-            "label": "Section jeux (table de pool, etc.)",
-            "input_type": "checkbox",
-            "sort_order": 53
-        },
-        {
-            "id": 283,
-            "code": "12.3.14",
-            "step": 12,
-            "parent_code": "12.3",
-            "label": "Autres",
-            "input_type": "checkbox",
-            "sort_order": 54
-        },
-        {
-            "id": 284,
+            "id": 186,
             "code": "12.3.14.1",
             "step": 12,
             "parent_code": "12.3.14",
-            "label": "Autres (description)",
-            "input_type": "text",
-            "sort_order": 55
+            "label": "Text-Input",
+            "input_type": "c",
+            "sort_order": 10
         },
         {
-            "id": 285,
-            "code": "12.4",
-            "step": 12,
-            "parent_code": "12",
-            "label": "Garage détaché",
-            "input_type": "checkbox",
-            "sort_order": 60
-        },
-        {
-            "id": 286,
+            "id": 188,
             "code": "12.4.1",
             "step": 12,
             "parent_code": "12.4",
-            "label": "J'ai déja un garage détaché",
-            "input_type": "radio",
-            "sort_order": 61
+            "label": "J'ai déjà un garage détaché",
+            "input_type": "r",
+            "sort_order": 10
         },
         {
-            "id": 287,
-            "code": "12.4.2",
-            "step": 12,
-            "parent_code": "12.4",
-            "label": "Je veux seulement projeter un garage rapidement",
-            "input_type": "radio",
-            "sort_order": 62
-        },
-        {
-            "id": 288,
-            "code": "12.4.3",
-            "step": 12,
-            "parent_code": "12.4",
-            "label": "J'aimerais un garage selons des inspirations",
-            "input_type": "radio",
-            "sort_order": 63
-        },
-        {
-            "id": 289,
-            "code": "12.5",
-            "step": 12,
-            "parent_code": "12",
-            "label": "Serre",
-            "input_type": "checkbox",
-            "sort_order": 70
-        },
-        {
-            "id": 290,
+            "id": 192,
             "code": "12.5.1",
             "step": 12,
             "parent_code": "12.5",
             "label": "J'ai deja une serre a conserver",
-            "input_type": "radio",
-            "sort_order": 71
+            "input_type": "r",
+            "sort_order": 10
         },
         {
-            "id": 291,
+            "id": 153,
+            "code": "12.1.1.2",
+            "step": 12,
+            "parent_code": "12.1.1",
+            "label": "A modifier",
+            "input_type": "r",
+            "sort_order": 20
+        },
+        {
+            "id": 154,
+            "code": "12.1.2",
+            "step": 12,
+            "parent_code": "12.1",
+            "label": "Nouveau cabanon",
+            "input_type": "r",
+            "sort_order": 20
+        },
+        {
+            "id": 155,
+            "code": "12.2",
+            "step": 12,
+            "parent_code": "12",
+            "label": "Pavillon de piscine (Pool House)",
+            "input_type": "c",
+            "sort_order": 20
+        },
+        {
+            "id": 157,
+            "code": "12.2.2",
+            "step": 12,
+            "parent_code": "12.2",
+            "label": "Section lounge sous la section fermée",
+            "input_type": "c",
+            "sort_order": 20
+        },
+        {
+            "id": 173,
+            "code": "12.3.2",
+            "step": 12,
+            "parent_code": "12.3",
+            "label": "Section lounge sous la section fermée",
+            "input_type": "c",
+            "sort_order": 20
+        },
+        {
+            "id": 189,
+            "code": "12.4.2",
+            "step": 12,
+            "parent_code": "12.4",
+            "label": "Je veux seulement projeter un garage rapidement",
+            "input_type": "r",
+            "sort_order": 20
+        },
+        {
+            "id": 193,
             "code": "12.5.2",
             "step": 12,
             "parent_code": "12.5",
             "label": "J'aimerais ajouter une serre",
-            "input_type": "radio",
-            "sort_order": 72
+            "input_type": "r",
+            "sort_order": 20
         },
         {
-            "id": 292,
-            "code": "12.6",
+            "id": 158,
+            "code": "12.2.3",
+            "step": 12,
+            "parent_code": "12.2",
+            "label": "Section pour manger sous la section fermée",
+            "input_type": "c",
+            "sort_order": 30
+        },
+        {
+            "id": 171,
+            "code": "12.3",
             "step": 12,
             "parent_code": "12",
-            "label": "Petit poulailler",
-            "input_type": "checkbox",
-            "sort_order": 80
+            "label": "Pavillon autre que la section piscine",
+            "input_type": "c",
+            "sort_order": 30
+        },
+        {
+            "id": 174,
+            "code": "12.3.3",
+            "step": 12,
+            "parent_code": "12.3",
+            "label": "Section pour manger sous la section fermée",
+            "input_type": "c",
+            "sort_order": 30
+        },
+        {
+            "id": 190,
+            "code": "12.4.3",
+            "step": 12,
+            "parent_code": "12.4",
+            "label": "J'aimerais qu'on crée un garage selon des inspirations",
+            "input_type": "r",
+            "sort_order": 30
+        },
+        {
+            "id": 159,
+            "code": "12.2.4",
+            "step": 12,
+            "parent_code": "12.2",
+            "label": "Espace feu a prévoir",
+            "input_type": "c",
+            "sort_order": 40
+        },
+        {
+            "id": 175,
+            "code": "12.3.4",
+            "step": 12,
+            "parent_code": "12.3",
+            "label": "Espace feu a prévoir",
+            "input_type": "c",
+            "sort_order": 40
+        },
+        {
+            "id": 187,
+            "code": "12.4",
+            "step": 12,
+            "parent_code": "12",
+            "label": "Garage détaché",
+            "input_type": "c",
+            "sort_order": 40
+        },
+        {
+            "id": 160,
+            "code": "12.2.5",
+            "step": 12,
+            "parent_code": "12.2",
+            "label": "Petit coin bar",
+            "input_type": "c",
+            "sort_order": 50
+        },
+        {
+            "id": 176,
+            "code": "12.3.5",
+            "step": 12,
+            "parent_code": "12.3",
+            "label": "Petit coin bar",
+            "input_type": "c",
+            "sort_order": 50
+        },
+        {
+            "id": 191,
+            "code": "12.5",
+            "step": 12,
+            "parent_code": "12",
+            "label": "Serre",
+            "input_type": "c",
+            "sort_order": 50
+        },
+        {
+            "id": 161,
+            "code": "12.2.6",
+            "step": 12,
+            "parent_code": "12.2",
+            "label": "Bar complet",
+            "input_type": "c",
+            "sort_order": 60
+        },
+        {
+            "id": 177,
+            "code": "12.3.6",
+            "step": 12,
+            "parent_code": "12.3",
+            "label": "Bar complet",
+            "input_type": "c",
+            "sort_order": 60
         },
         {
             "id": 194,
-            "code": "13",
-            "step": 13,
-            "parent_code": null,
-            "label": "Autres éléments",
-            "input_type": "group",
-            "sort_order": 0
+            "code": "12.6",
+            "step": 12,
+            "parent_code": "12",
+            "label": "Petit poulailler Existant ou a prévoir",
+            "input_type": "c",
+            "sort_order": 60
         },
         {
-            "id": 195,
+            "id": 162,
+            "code": "12.2.7",
+            "step": 12,
+            "parent_code": "12.2",
+            "label": "Barbecue",
+            "input_type": "c",
+            "sort_order": 70
+        },
+        {
+            "id": 178,
+            "code": "12.3.7",
+            "step": 12,
+            "parent_code": "12.3",
+            "label": "Barbecue",
+            "input_type": "c",
+            "sort_order": 70
+        },
+        {
+            "id": 163,
+            "code": "12.2.8",
+            "step": 12,
+            "parent_code": "12.2",
+            "label": "Cuisine extérieure complète",
+            "input_type": "c",
+            "sort_order": 80
+        },
+        {
+            "id": 179,
+            "code": "12.3.8",
+            "step": 12,
+            "parent_code": "12.3",
+            "label": "Cuisine extérieure complète",
+            "input_type": "c",
+            "sort_order": 80
+        },
+        {
+            "id": 164,
+            "code": "12.2.9",
+            "step": 12,
+            "parent_code": "12.2",
+            "label": "Prévoir une télévision",
+            "input_type": "c",
+            "sort_order": 90
+        },
+        {
+            "id": 180,
+            "code": "12.3.9",
+            "step": 12,
+            "parent_code": "12.3",
+            "label": "Prévoir une télévision",
+            "input_type": "c",
+            "sort_order": 90
+        },
+        {
+            "id": 165,
+            "code": "12.2.10",
+            "step": 12,
+            "parent_code": "12.2",
+            "label": "Je veux fermer le pavillon avec portes\/fenetres",
+            "input_type": "c",
+            "sort_order": 100
+        },
+        {
+            "id": 181,
+            "code": "12.3.10",
+            "step": 12,
+            "parent_code": "12.3",
+            "label": "Je veux fermer le pavillon avec portes\/fenetres",
+            "input_type": "c",
+            "sort_order": 100
+        },
+        {
+            "id": 149,
+            "code": "12",
+            "step": 12,
+            "parent_code": null,
+            "label": "Batiments",
+            "input_type": null,
+            "sort_order": 110
+        },
+        {
+            "id": 166,
+            "code": "12.2.11",
+            "step": 12,
+            "parent_code": "12.2",
+            "label": "Moustiquaire automatique",
+            "input_type": "c",
+            "sort_order": 110
+        },
+        {
+            "id": 182,
+            "code": "12.3.11",
+            "step": 12,
+            "parent_code": "12.3",
+            "label": "Moustiquaire automatique",
+            "input_type": "c",
+            "sort_order": 110
+        },
+        {
+            "id": 167,
+            "code": "12.2.12",
+            "step": 12,
+            "parent_code": "12.2",
+            "label": "Toilette",
+            "input_type": "c",
+            "sort_order": 120
+        },
+        {
+            "id": 183,
+            "code": "12.3.12",
+            "step": 12,
+            "parent_code": "12.3",
+            "label": "Toilette",
+            "input_type": "c",
+            "sort_order": 120
+        },
+        {
+            "id": 168,
+            "code": "12.2.13",
+            "step": 12,
+            "parent_code": "12.2",
+            "label": "Section jeux table de pool, etc.",
+            "input_type": "c",
+            "sort_order": 130
+        },
+        {
+            "id": 184,
+            "code": "12.3.13",
+            "step": 12,
+            "parent_code": "12.3",
+            "label": "Section jeux table de pool, etc.",
+            "input_type": "c",
+            "sort_order": 130
+        },
+        {
+            "id": 169,
+            "code": "12.2.14",
+            "step": 12,
+            "parent_code": "12.2",
+            "label": "Autre : A précisé",
+            "input_type": "c",
+            "sort_order": 140
+        },
+        {
+            "id": 185,
+            "code": "12.3.14",
+            "step": 12,
+            "parent_code": "12.3",
+            "label": "Autre : A précisé",
+            "input_type": "c",
+            "sort_order": 140
+        },
+        {
+            "id": 196,
             "code": "13.1",
             "step": 13,
             "parent_code": "13",
             "label": "Bassin d'eau",
-            "input_type": "checkbox",
+            "input_type": "c",
             "sort_order": 10
         },
         {
-            "id": 196,
+            "id": 197,
             "code": "13.1.1",
             "step": 13,
             "parent_code": "13.1",
-            "label": "J'ai déjà un bassin d'eau à conserver",
-            "input_type": "radio",
-            "sort_order": 11
+            "label": "J'ai deja un bassin d'eau a conserver",
+            "input_type": "r",
+            "sort_order": 10
         },
         {
-            "id": 197,
+            "id": 198,
+            "code": "13.1.1.1",
+            "step": 13,
+            "parent_code": "13.1.1",
+            "label": "Ajouter une chute",
+            "input_type": "c",
+            "sort_order": 10
+        },
+        {
+            "id": 200,
+            "code": "13.1.2.1",
+            "step": 13,
+            "parent_code": "13.1.2",
+            "label": "Ajouter une chute",
+            "input_type": "c",
+            "sort_order": 10
+        },
+        {
+            "id": 202,
+            "code": "13.2.1",
+            "step": 13,
+            "parent_code": "13.2",
+            "label": "Couverture 1 zone",
+            "input_type": "r",
+            "sort_order": 10
+        },
+        {
+            "id": 199,
             "code": "13.1.2",
             "step": 13,
             "parent_code": "13.1",
             "label": "Concevoir un bassin d'eau",
-            "input_type": "radio",
-            "sort_order": 12
-        },
-        {
-            "id": 198,
-            "code": "13.2",
-            "step": 13,
-            "parent_code": "13",
-            "label": "Ajouter une chute",
-            "input_type": "checkbox",
+            "input_type": "r",
             "sort_order": 20
         },
         {
-            "id": 199,
-            "code": "13.3",
+            "id": 201,
+            "code": "13.2",
             "step": 13,
             "parent_code": "13",
             "label": "WIFI",
-            "input_type": "checkbox",
+            "input_type": "c",
+            "sort_order": 20
+        },
+        {
+            "id": 203,
+            "code": "13.2.2",
+            "step": 13,
+            "parent_code": "13.2",
+            "label": "Couverture 2 zones",
+            "input_type": "r",
+            "sort_order": 20
+        },
+        {
+            "id": 204,
+            "code": "13.2.3",
+            "step": 13,
+            "parent_code": "13.2",
+            "label": "Couverture complète",
+            "input_type": "r",
             "sort_order": 30
         },
         {
-            "id": 200,
-            "code": "13.3.1",
+            "id": 195,
+            "code": "13",
             "step": 13,
-            "parent_code": "13.3",
-            "label": "Couverture 1 zone",
-            "input_type": "radio",
-            "sort_order": 31
-        },
-        {
-            "id": 201,
-            "code": "13.3.2",
-            "step": 13,
-            "parent_code": "13.3",
-            "label": "Couverture 2 zones",
-            "input_type": "radio",
-            "sort_order": 32
-        },
-        {
-            "id": 202,
-            "code": "13.3.3",
-            "step": 13,
-            "parent_code": "13.3",
-            "label": "Couverture complète",
-            "input_type": "radio",
-            "sort_order": 33
+            "parent_code": null,
+            "label": "Autres éléments",
+            "input_type": null,
+            "sort_order": 120
         }
     ]
 }
