@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-11-21T19:20:02+00:00",
+    "generated_at": "2025-11-21T19:30:08+00:00",
     "hourly_rate": 100,
     "pricing": [
         {
@@ -2437,7 +2437,7 @@
             "step": 6,
             "parent_code": "6",
             "label": "Terrain avant",
-            "input_type": "t",
+            "input_type": "group",
             "sort_order": 10
         },
         {
@@ -2473,7 +2473,7 @@
             "step": 6,
             "parent_code": "6",
             "label": "Terrain arrière",
-            "input_type": "t",
+            "input_type": "group",
             "sort_order": 20
         },
         {
