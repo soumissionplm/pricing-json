@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-11-21T19:30:08+00:00",
+    "generated_at": "2025-11-21T20:41:04+00:00",
     "hourly_rate": 100,
     "pricing": [
         {
@@ -2716,7 +2716,7 @@
             "step": 10,
             "parent_code": "10.3",
             "label": "Marches a conserver",
-            "input_type": "r",
+            "input_type": "c",
             "sort_order": 10
         },
         {
@@ -2788,7 +2788,7 @@
             "step": 10,
             "parent_code": "10.3",
             "label": "Marches a refaire en neuf",
-            "input_type": "r",
+            "input_type": "c",
             "sort_order": 20
         },
         {
