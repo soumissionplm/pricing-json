@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-11-22T01:30:08+00:00",
+    "generated_at": "2025-11-22T01:43:32+00:00",
     "hourly_rate": 100,
     "pricing": [
         {
@@ -1554,7 +1554,7 @@
             "id": 3,
             "code": "3.1",
             "col_code": "D",
-            "value_hours": "4.50"
+            "value_hours": "0.00"
         },
         {
             "id": 4,
@@ -1620,7 +1620,7 @@
             "id": 14,
             "code": "3.2",
             "col_code": "D",
-            "value_hours": "4.50"
+            "value_hours": "0.00"
         },
         {
             "id": 15,
@@ -1686,7 +1686,7 @@
             "id": 25,
             "code": "3.3",
             "col_code": "D",
-            "value_hours": "4.50"
+            "value_hours": "0.00"
         },
         {
             "id": 26,
