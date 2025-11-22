@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-11-22T02:12:31+00:00",
+    "generated_at": "2025-11-22T02:12:45+00:00",
     "hourly_rate": 100,
     "pricing": [
         {
@@ -1921,12 +1921,6 @@
             "code": "6.1.3",
             "col_code": "P3",
             "value_hours": "1.00"
-        },
-        {
-            "id": 65,
-            "code": "6.1.3",
-            "col_code": "P6",
-            "value_hours": "0.50"
         },
         {
             "id": 66,
