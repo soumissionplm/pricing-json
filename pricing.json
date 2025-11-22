@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-11-21T20:51:01+00:00",
+    "generated_at": "2025-11-22T01:30:08+00:00",
     "hourly_rate": 100,
     "pricing": [
         {
@@ -1548,7 +1548,7 @@
             "id": 2,
             "code": "3.1",
             "col_code": "B",
-            "value_hours": "5.00"
+            "value_hours": "3.00"
         },
         {
             "id": 3,
@@ -1614,7 +1614,7 @@
             "id": 13,
             "code": "3.2",
             "col_code": "B",
-            "value_hours": "5.00"
+            "value_hours": "3.00"
         },
         {
             "id": 14,
@@ -1680,7 +1680,7 @@
             "id": 24,
             "code": "3.3",
             "col_code": "B",
-            "value_hours": "5.00"
+            "value_hours": "4.00"
         },
         {
             "id": 25,
@@ -1737,6 +1737,18 @@
             "value_hours": "3.50"
         },
         {
+            "id": 376,
+            "code": "4.5",
+            "col_code": "C",
+            "value_hours": "1.00"
+        },
+        {
+            "id": 377,
+            "code": "4.6",
+            "col_code": "C",
+            "value_hours": "2.00"
+        },
+        {
             "id": 34,
             "code": "4.6",
             "col_code": "P1",
@@ -1747,6 +1759,12 @@
             "code": "4.6",
             "col_code": "P5",
             "value_hours": "1.00"
+        },
+        {
+            "id": 378,
+            "code": "4.7",
+            "col_code": "C",
+            "value_hours": "2.50"
         },
         {
             "id": 36,
