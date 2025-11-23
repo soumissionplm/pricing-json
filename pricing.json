@@ -1,6 +1,11 @@
 {
-    "generated_at": "2025-11-22T02:19:10+00:00",
+    "generated_at": "2025-11-23T02:23:45+00:00",
     "hourly_rate": 100,
+    "admin_fee": 100,
+    "plan_base_prices": {
+        "P13": 1,
+        "P2": 1
+    },
     "pricing": [
         {
             "id": 120,
@@ -2112,13 +2117,13 @@
             "id": 375,
             "code": "8.1",
             "col_code": "A",
-            "value_hours": "0.50"
+            "value_hours": "0.25"
         },
         {
             "id": 374,
             "code": "8.1",
             "col_code": "B",
-            "value_hours": "0.50"
+            "value_hours": "0.25"
         },
         {
             "id": 97,
@@ -2130,19 +2135,19 @@
             "id": 98,
             "code": "8.2",
             "col_code": "B",
-            "value_hours": "0.50"
+            "value_hours": "0.25"
         },
         {
             "id": 99,
             "code": "8.3",
             "col_code": "A",
-            "value_hours": "0.50"
+            "value_hours": "0.25"
         },
         {
             "id": 100,
             "code": "8.3",
             "col_code": "B",
-            "value_hours": "0.50"
+            "value_hours": "0.25"
         },
         {
             "id": 101,
@@ -2154,7 +2159,7 @@
             "id": 102,
             "code": "8.4",
             "col_code": "B",
-            "value_hours": "0.50"
+            "value_hours": "0.25"
         },
         {
             "id": 103,
