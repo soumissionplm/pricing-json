@@ -1,9 +1,10 @@
 {
-    "generated_at": "2025-11-23T03:15:14+00:00",
+    "generated_at": "2025-11-24T20:12:50+00:00",
     "hourly_rate": 100,
     "admin_fee": 1,
     "plan_base_prices": {
         "P13": 1,
+        "P14": 1,
         "P2": 1
     },
     "pricing": [
