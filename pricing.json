@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-11-25T03:39:48+00:00",
+    "generated_at": "2025-11-25T03:46:13+00:00",
     "hourly_rate": 100,
     "admin_fee": 1,
     "plan_base_prices": {
@@ -2331,7 +2331,7 @@
             "code": "5.1",
             "step": 5,
             "parent_code": "5",
-            "label": "Dimension du terrain  de 10 000 pi2 ",
+            "label": "Moins de 10 000 pi2",
             "input_type": "r",
             "sort_order": 10
         },
@@ -2340,7 +2340,7 @@
             "code": "5.2",
             "step": 5,
             "parent_code": "5",
-            "label": "Dimension du terrain + de 10 000 pi2",
+            "label": "Plus de 10 000 pi2",
             "input_type": "r",
             "sort_order": 20
         },
@@ -2349,7 +2349,7 @@
             "code": "5.3",
             "step": 5,
             "parent_code": "5",
-            "label": "Dimension du terrain + de 15 000 pi2",
+            "label": "Plus de 15 000 pi2",
             "input_type": "r",
             "sort_order": 30
         },
@@ -2358,7 +2358,7 @@
             "code": "5",
             "step": 5,
             "parent_code": null,
-            "label": "Information du terrain",
+            "label": "Dimensions du terrain",
             "input_type": null,
             "sort_order": 40
         },
@@ -2367,7 +2367,7 @@
             "code": "5.4",
             "step": 5,
             "parent_code": "5",
-            "label": "Dimension du terrain + de 20 000 pi2",
+            "label": "Plus de 20 000 pi2",
             "input_type": "r",
             "sort_order": 40
         },
