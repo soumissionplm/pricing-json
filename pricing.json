@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-11-25T17:29:12+00:00",
+    "generated_at": "2025-11-25T17:36:54+00:00",
     "hourly_rate": 100,
     "admin_fee": 1,
     "plan_base_prices": {
@@ -949,6 +949,30 @@
             "code": "11.3.1.2",
             "col_code": "C",
             "value_hours": "3.00"
+        },
+        {
+            "id": 404,
+            "code": "11.3.1.2",
+            "col_code": "P1",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 407,
+            "code": "11.3.1.2",
+            "col_code": "P15",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 405,
+            "code": "11.3.1.2",
+            "col_code": "P3",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 406,
+            "code": "11.3.1.2",
+            "col_code": "P5",
+            "value_hours": "1.00"
         },
         {
             "id": 256,
