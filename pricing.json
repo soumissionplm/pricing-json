@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-11-25T21:07:12+00:00",
+    "generated_at": "2025-11-25T21:12:46+00:00",
     "hourly_rate": 100,
     "admin_fee": 1,
     "plan_base_prices": {
@@ -990,7 +990,7 @@
             "id": 261,
             "code": "11.3.2",
             "col_code": "P10",
-            "value_hours": "1.50"
+            "value_hours": "0.50"
         },
         {
             "id": 262,
@@ -1146,7 +1146,7 @@
             "id": 281,
             "code": "11.3.4",
             "col_code": "P10",
-            "value_hours": "1.00"
+            "value_hours": "0.50"
         },
         {
             "id": 282,
@@ -1260,7 +1260,7 @@
             "id": 422,
             "code": "11.3.5.3",
             "col_code": "P10",
-            "value_hours": "1.00"
+            "value_hours": "0.50"
         },
         {
             "id": 423,
@@ -3078,7 +3078,7 @@
             "code": "10.3",
             "step": 10,
             "parent_code": "10",
-            "label": "Marches",
+            "label": "Marches du trottoir",
             "input_type": "c",
             "sort_order": 30
         },
@@ -3556,15 +3556,6 @@
             "step": 11,
             "parent_code": "11.2.4",
             "label": "Fumoir",
-            "input_type": "c",
-            "sort_order": 40
-        },
-        {
-            "id": 125,
-            "code": "11.2.7.4",
-            "step": 11,
-            "parent_code": "11.2.7",
-            "label": "Balancoire",
             "input_type": "c",
             "sort_order": 40
         },
@@ -4332,6 +4323,15 @@
             "label": "Couverture WIFI Complète",
             "input_type": "r",
             "sort_order": 30
+        },
+        {
+            "id": 125,
+            "code": "13.3",
+            "step": 13,
+            "parent_code": "13",
+            "label": "Balancoire pour adulte",
+            "input_type": "c",
+            "sort_order": 40
         },
         {
             "id": 195,
