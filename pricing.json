@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-11-25T03:53:21+00:00",
+    "generated_at": "2025-11-25T04:12:55+00:00",
     "hourly_rate": 100,
     "admin_fee": 1,
     "plan_base_prices": {
@@ -255,6 +255,12 @@
             "value_hours": "0.15"
         },
         {
+            "id": 379,
+            "code": "11.1.1",
+            "col_code": "C",
+            "value_hours": "1.00"
+        },
+        {
             "id": 161,
             "code": "11.1.1",
             "col_code": "P1",
@@ -270,6 +276,12 @@
             "id": 165,
             "code": "11.1.1",
             "col_code": "P12",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 383,
+            "code": "11.1.1",
+            "col_code": "P15",
             "value_hours": "0.50"
         },
         {
@@ -357,6 +369,12 @@
             "value_hours": "0.15"
         },
         {
+            "id": 380,
+            "code": "11.1.2",
+            "col_code": "C",
+            "value_hours": "1.00"
+        },
+        {
             "id": 178,
             "code": "11.1.2",
             "col_code": "P1",
@@ -372,6 +390,12 @@
             "id": 183,
             "code": "11.1.2",
             "col_code": "P12",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 382,
+            "code": "11.1.2",
+            "col_code": "P15",
             "value_hours": "0.50"
         },
         {
@@ -465,6 +489,12 @@
             "value_hours": "0.15"
         },
         {
+            "id": 381,
+            "code": "11.1.3",
+            "col_code": "C",
+            "value_hours": "1.00"
+        },
+        {
             "id": 197,
             "code": "11.1.3",
             "col_code": "P1",
@@ -480,6 +510,12 @@
             "id": 201,
             "code": "11.1.3",
             "col_code": "P12",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 384,
+            "code": "11.1.3",
+            "col_code": "P15",
             "value_hours": "0.50"
         },
         {
@@ -547,6 +583,12 @@
             "code": "11.1.3.6",
             "col_code": "P1",
             "value_hours": "0.15"
+        },
+        {
+            "id": 385,
+            "code": "11.1.3.6",
+            "col_code": "P15",
+            "value_hours": "0.25"
         },
         {
             "id": 211,
@@ -642,6 +684,12 @@
             "id": 226,
             "code": "11.2.3",
             "col_code": "P1",
+            "value_hours": "0.15"
+        },
+        {
+            "id": 386,
+            "code": "11.2.3",
+            "col_code": "P15",
             "value_hours": "0.15"
         },
         {
