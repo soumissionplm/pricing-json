@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-11-25T03:49:54+00:00",
+    "generated_at": "2025-11-25T03:50:12+00:00",
     "hourly_rate": 100,
     "admin_fee": 1,
     "plan_base_prices": {
@@ -462,7 +462,7 @@
             "id": 196,
             "code": "11.1.2.8",
             "col_code": "P1",
-            "value_hours": "0.25"
+            "value_hours": "0.15"
         },
         {
             "id": 197,
