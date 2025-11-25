@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-11-25T04:28:18+00:00",
+    "generated_at": "2025-11-25T16:57:18+00:00",
     "hourly_rate": 100,
     "admin_fee": 1,
     "plan_base_prices": {
@@ -276,7 +276,7 @@
             "id": 165,
             "code": "11.1.1",
             "col_code": "P12",
-            "value_hours": "0.50"
+            "value_hours": "0.15"
         },
         {
             "id": 383,
@@ -390,7 +390,7 @@
             "id": 183,
             "code": "11.1.2",
             "col_code": "P12",
-            "value_hours": "0.50"
+            "value_hours": "0.15"
         },
         {
             "id": 382,
@@ -405,6 +405,12 @@
             "value_hours": "0.15"
         },
         {
+            "id": 387,
+            "code": "11.1.2",
+            "col_code": "P4",
+            "value_hours": "0.25"
+        },
+        {
             "id": 181,
             "code": "11.1.2",
             "col_code": "P6",
@@ -414,6 +420,18 @@
             "id": 184,
             "code": "11.1.2.1",
             "col_code": "C",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 389,
+            "code": "11.1.2.1",
+            "col_code": "P1",
+            "value_hours": "0.15"
+        },
+        {
+            "id": 388,
+            "code": "11.1.2.1",
+            "col_code": "P3",
             "value_hours": "0.25"
         },
         {
@@ -498,7 +516,7 @@
             "id": 197,
             "code": "11.1.3",
             "col_code": "P1",
-            "value_hours": "0.25"
+            "value_hours": "0.50"
         },
         {
             "id": 200,
@@ -510,7 +528,7 @@
             "id": 201,
             "code": "11.1.3",
             "col_code": "P12",
-            "value_hours": "0.50"
+            "value_hours": "0.15"
         },
         {
             "id": 384,
@@ -522,7 +540,7 @@
             "id": 198,
             "code": "11.1.3",
             "col_code": "P4",
-            "value_hours": "1.00"
+            "value_hours": "0.50"
         },
         {
             "id": 199,
