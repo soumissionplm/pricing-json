@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-11-25T04:22:56+00:00",
+    "generated_at": "2025-11-25T04:28:18+00:00",
     "hourly_rate": 100,
     "admin_fee": 1,
     "plan_base_prices": {
@@ -2523,7 +2523,7 @@
             "code": "7.1",
             "step": 7,
             "parent_code": "7",
-            "label": "Entre 0 et 4",
+            "label": "Entre 0 et 4 Arbres",
             "input_type": "r",
             "sort_order": 10
         },
@@ -2532,7 +2532,7 @@
             "code": "7.2",
             "step": 7,
             "parent_code": "7",
-            "label": "Entre 5 et 9",
+            "label": "Entre 5 et 9 Arbres",
             "input_type": "r",
             "sort_order": 20
         },
@@ -2541,7 +2541,7 @@
             "code": "7.3",
             "step": 7,
             "parent_code": "7",
-            "label": "Entre 10 et 20",
+            "label": "Entre 10 et 20 Arbres",
             "input_type": "r",
             "sort_order": 30
         },
@@ -2550,7 +2550,7 @@
             "code": "7.4",
             "step": 7,
             "parent_code": "7",
-            "label": "Plus de 20",
+            "label": "Plus de 20 Arbres",
             "input_type": "r",
             "sort_order": 40
         },
@@ -4026,7 +4026,7 @@
             "code": "13.2.1",
             "step": 13,
             "parent_code": "13.2",
-            "label": "Couverture 1 zone",
+            "label": "Couverture WIFI 1 Zone",
             "input_type": "r",
             "sort_order": 10
         },
@@ -4053,7 +4053,7 @@
             "code": "13.2.2",
             "step": 13,
             "parent_code": "13.2",
-            "label": "Couverture 2 zones",
+            "label": "Couverture WIFI 2 Zones",
             "input_type": "r",
             "sort_order": 20
         },
@@ -4062,7 +4062,7 @@
             "code": "13.2.3",
             "step": 13,
             "parent_code": "13.2",
-            "label": "Couverture complète",
+            "label": "Couverture WIFI Complète",
             "input_type": "r",
             "sort_order": 30
         },
