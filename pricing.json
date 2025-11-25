@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-11-25T04:22:27+00:00",
+    "generated_at": "2025-11-25T04:22:56+00:00",
     "hourly_rate": 100,
     "admin_fee": 1,
     "plan_base_prices": {
@@ -942,7 +942,7 @@
             "id": 270,
             "code": "11.3.2.8",
             "col_code": "C",
-            "value_hours": "1.00"
+            "value_hours": "0.25"
         },
         {
             "id": 271,
@@ -2280,7 +2280,7 @@
             "code": "3.1",
             "step": 3,
             "parent_code": "3",
-            "label": "Avant",
+            "label": "Plan Avant",
             "input_type": "r",
             "sort_order": 10
         },
@@ -2289,7 +2289,7 @@
             "code": "3.2",
             "step": 3,
             "parent_code": "3",
-            "label": "Arrière",
+            "label": "Plan Arrière",
             "input_type": "r",
             "sort_order": 20
         },
@@ -2298,7 +2298,7 @@
             "code": "3.3",
             "step": 3,
             "parent_code": "3",
-            "label": "Complet",
+            "label": "Plan Complet",
             "input_type": "r",
             "sort_order": 30
         },
