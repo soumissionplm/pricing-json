@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-11-26T01:55:18+00:00",
+    "generated_at": "2025-11-26T01:58:10+00:00",
     "hourly_rate": 100,
     "admin_fee": 1,
     "plan_base_prices": {
@@ -3455,6 +3455,15 @@
             "sort_order": 34
         },
         {
+            "id": 218,
+            "code": "10.4",
+            "step": 10,
+            "parent_code": "10",
+            "label": "Balcon",
+            "input_type": "c",
+            "sort_order": 35
+        },
+        {
             "id": 61,
             "code": "10.3.1.4",
             "step": 10,
@@ -3487,15 +3496,6 @@
             "step": 10,
             "parent_code": "10.5",
             "label": "Prévoir un futur garage attaché",
-            "input_type": "c",
-            "sort_order": 40
-        },
-        {
-            "id": 218,
-            "code": "10.4",
-            "step": 10,
-            "parent_code": "10",
-            "label": "Balcon",
             "input_type": "c",
             "sort_order": 40
         },
