@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-11-26T01:36:03+00:00",
+    "generated_at": "2025-11-26T01:55:18+00:00",
     "hourly_rate": 100,
     "admin_fee": 1,
     "plan_base_prices": {
@@ -147,110 +147,200 @@
             "value_hours": "0.75"
         },
         {
-            "id": 436,
-            "code": "10.4.1.1",
+            "id": 508,
+            "code": "10.4.1.1.1",
             "col_code": "C",
             "value_hours": "0.15"
         },
         {
-            "id": 437,
-            "code": "10.4.1.1",
+            "id": 509,
+            "code": "10.4.1.1.1",
             "col_code": "P1",
             "value_hours": "0.15"
         },
         {
-            "id": 438,
-            "code": "10.4.1.1",
+            "id": 510,
+            "code": "10.4.1.1.1",
             "col_code": "P3",
             "value_hours": "0.15"
         },
         {
-            "id": 439,
-            "code": "10.4.1.2",
+            "id": 511,
+            "code": "10.4.1.1.2",
             "col_code": "C",
             "value_hours": "0.75"
         },
         {
-            "id": 440,
-            "code": "10.4.1.2",
+            "id": 512,
+            "code": "10.4.1.1.2",
             "col_code": "P1",
             "value_hours": "0.15"
         },
         {
-            "id": 441,
-            "code": "10.4.1.2",
+            "id": 513,
+            "code": "10.4.1.1.2",
             "col_code": "P3",
             "value_hours": "0.50"
         },
         {
-            "id": 442,
+            "id": 514,
+            "code": "10.4.1.2",
+            "col_code": "C",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 515,
+            "code": "10.4.1.2",
+            "col_code": "P1",
+            "value_hours": "0.15"
+        },
+        {
+            "id": 516,
+            "code": "10.4.1.2",
+            "col_code": "P3",
+            "value_hours": "0.15"
+        },
+        {
+            "id": 517,
             "code": "10.4.2",
             "col_code": "C",
             "value_hours": "0.25"
         },
         {
-            "id": 443,
+            "id": 518,
             "code": "10.4.2",
             "col_code": "P1",
             "value_hours": "0.15"
         },
         {
-            "id": 444,
+            "id": 519,
             "code": "10.4.2",
             "col_code": "P3",
             "value_hours": "0.25"
         },
         {
-            "id": 445,
-            "code": "10.4.2.1",
+            "id": 520,
+            "code": "10.4.2.1.1",
             "col_code": "C",
-            "value_hours": "0.25"
+            "value_hours": "0.15"
         },
         {
-            "id": 446,
-            "code": "10.4.2.1",
+            "id": 521,
+            "code": "10.4.2.1.1",
             "col_code": "P1",
             "value_hours": "0.15"
         },
         {
-            "id": 447,
-            "code": "10.4.2.1",
+            "id": 522,
+            "code": "10.4.2.1.1",
             "col_code": "P3",
             "value_hours": "0.15"
         },
         {
-            "id": 448,
+            "id": 523,
+            "code": "10.4.2.1.2",
+            "col_code": "C",
+            "value_hours": "0.75"
+        },
+        {
+            "id": 524,
+            "code": "10.4.2.1.2",
+            "col_code": "P1",
+            "value_hours": "0.15"
+        },
+        {
+            "id": 525,
+            "code": "10.4.2.1.2",
+            "col_code": "P3",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 526,
+            "code": "10.4.2.3",
+            "col_code": "C",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 527,
+            "code": "10.4.2.3",
+            "col_code": "P1",
+            "value_hours": "0.15"
+        },
+        {
+            "id": 528,
+            "code": "10.4.2.3",
+            "col_code": "P3",
+            "value_hours": "0.15"
+        },
+        {
+            "id": 529,
             "code": "10.4.3",
             "col_code": "C",
             "value_hours": "0.25"
         },
         {
-            "id": 449,
+            "id": 530,
             "code": "10.4.3",
             "col_code": "P1",
             "value_hours": "0.15"
         },
         {
-            "id": 450,
+            "id": 531,
             "code": "10.4.3",
             "col_code": "P3",
             "value_hours": "0.25"
         },
         {
-            "id": 451,
-            "code": "10.4.3.1",
+            "id": 532,
+            "code": "10.4.3.1.1",
             "col_code": "C",
-            "value_hours": "0.25"
+            "value_hours": "0.15"
         },
         {
-            "id": 452,
-            "code": "10.4.3.1",
+            "id": 533,
+            "code": "10.4.3.1.1",
             "col_code": "P1",
             "value_hours": "0.15"
         },
         {
-            "id": 453,
-            "code": "10.4.3.1",
+            "id": 534,
+            "code": "10.4.3.1.1",
+            "col_code": "P3",
+            "value_hours": "0.15"
+        },
+        {
+            "id": 535,
+            "code": "10.4.3.1.2",
+            "col_code": "C",
+            "value_hours": "0.75"
+        },
+        {
+            "id": 536,
+            "code": "10.4.3.1.2",
+            "col_code": "P1",
+            "value_hours": "0.15"
+        },
+        {
+            "id": 537,
+            "code": "10.4.3.1.2",
+            "col_code": "P3",
+            "value_hours": "0.50"
+        },
+        {
+            "id": 538,
+            "code": "10.4.3.2",
+            "col_code": "C",
+            "value_hours": "0.25"
+        },
+        {
+            "id": 539,
+            "code": "10.4.3.2",
+            "col_code": "P1",
+            "value_hours": "0.15"
+        },
+        {
+            "id": 540,
+            "code": "10.4.3.2",
             "col_code": "P3",
             "value_hours": "0.15"
         },
@@ -3131,31 +3221,49 @@
             "sort_order": 10
         },
         {
-            "id": 211,
+            "id": 219,
             "code": "10.4.1",
             "step": 10,
             "parent_code": "10.4",
-            "label": "Recouvrir le balcon",
-            "input_type": "c",
+            "label": "Balcon existant",
+            "input_type": "r",
             "sort_order": 10
         },
         {
-            "id": 212,
+            "id": 220,
             "code": "10.4.1.1",
             "step": 10,
             "parent_code": "10.4.1",
-            "label": "Acrylique, crépis (Simple)",
-            "input_type": "r",
+            "label": "Recouvrir le balcon",
+            "input_type": "c",
             "sort_order": 11
         },
         {
-            "id": 213,
+            "id": 221,
+            "code": "10.4.1.1.1",
+            "step": 10,
+            "parent_code": "10.4.1.1",
+            "label": "Recouvrir en Acrylique ou crépis (Simple)",
+            "input_type": "r",
+            "sort_order": 12
+        },
+        {
+            "id": 222,
+            "code": "10.4.1.1.2",
+            "step": 10,
+            "parent_code": "10.4.1.1",
+            "label": "Recouvrir en Porcelaine, Pavé, Autres (Complex)",
+            "input_type": "r",
+            "sort_order": 13
+        },
+        {
+            "id": 223,
             "code": "10.4.1.2",
             "step": 10,
             "parent_code": "10.4.1",
-            "label": "Porcelaine, Pavé, Autres (Complex)",
-            "input_type": "r",
-            "sort_order": 12
+            "label": "Fermer le dessous",
+            "input_type": "c",
+            "sort_order": 14
         },
         {
             "id": 52,
@@ -3221,22 +3329,49 @@
             "sort_order": 20
         },
         {
-            "id": 214,
+            "id": 224,
             "code": "10.4.2",
             "step": 10,
             "parent_code": "10.4",
-            "label": "Modifier le balcon",
-            "input_type": "c",
+            "label": "Balcon existant à modifier",
+            "input_type": "r",
             "sort_order": 20
         },
         {
-            "id": 215,
+            "id": 225,
             "code": "10.4.2.1",
+            "step": 10,
+            "parent_code": "10.4.2",
+            "label": "Recouvrir le balcon",
+            "input_type": "c",
+            "sort_order": 21
+        },
+        {
+            "id": 226,
+            "code": "10.4.2.1.1",
+            "step": 10,
+            "parent_code": "10.4.2.1",
+            "label": "Recouvrir en Acrylique ou crépis (Simple)",
+            "input_type": "r",
+            "sort_order": 22
+        },
+        {
+            "id": 227,
+            "code": "10.4.2.1.2",
+            "step": 10,
+            "parent_code": "10.4.2.1",
+            "label": "Recouvrir en Porcelaine, Pavé, Autres (Complex)",
+            "input_type": "r",
+            "sort_order": 23
+        },
+        {
+            "id": 228,
+            "code": "10.4.2.3",
             "step": 10,
             "parent_code": "10.4.2",
             "label": "Fermer le dessous",
             "input_type": "c",
-            "sort_order": 21
+            "sort_order": 24
         },
         {
             "id": 56,
@@ -3275,31 +3410,49 @@
             "sort_order": 30
         },
         {
-            "id": 216,
+            "id": 229,
             "code": "10.4.3",
             "step": 10,
             "parent_code": "10.4",
             "label": "Créer un balcon",
-            "input_type": "c",
+            "input_type": "r",
             "sort_order": 30
         },
         {
-            "id": 217,
+            "id": 230,
             "code": "10.4.3.1",
             "step": 10,
             "parent_code": "10.4.3",
-            "label": "Fermer le dessous",
+            "label": "Recouvrir le balcon",
             "input_type": "c",
             "sort_order": 31
         },
         {
-            "id": 210,
-            "code": "10.4",
+            "id": 231,
+            "code": "10.4.3.1.1",
             "step": 10,
-            "parent_code": "10",
-            "label": "Balcon",
+            "parent_code": "10.4.3.1",
+            "label": "Recouvrir en Acrylique ou crépis (Simple)",
+            "input_type": "r",
+            "sort_order": 32
+        },
+        {
+            "id": 232,
+            "code": "10.4.3.1.2",
+            "step": 10,
+            "parent_code": "10.4.3.1",
+            "label": "Recouvrir en Porcelaine, Pavé, Autres (Complex)",
+            "input_type": "r",
+            "sort_order": 33
+        },
+        {
+            "id": 233,
+            "code": "10.4.3.2",
+            "step": 10,
+            "parent_code": "10.4.3",
+            "label": "Fermer le dessous",
             "input_type": "c",
-            "sort_order": 35
+            "sort_order": 34
         },
         {
             "id": 61,
@@ -3334,6 +3487,15 @@
             "step": 10,
             "parent_code": "10.5",
             "label": "Prévoir un futur garage attaché",
+            "input_type": "c",
+            "sort_order": 40
+        },
+        {
+            "id": 218,
+            "code": "10.4",
+            "step": 10,
+            "parent_code": "10",
+            "label": "Balcon",
             "input_type": "c",
             "sort_order": 40
         },
