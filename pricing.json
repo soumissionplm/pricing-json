@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-12-03T06:13:17+00:00",
+    "generated_at": "2025-12-04T15:54:33+00:00",
     "hourly_rate": 100,
     "admin_fee": 1,
     "plan_base_prices": {
@@ -30,6 +30,7 @@
         "C": -20,
         "P1": 20
     },
+    "step_info_texts": [],
     "pricing": [
         {
             "id": 120,
