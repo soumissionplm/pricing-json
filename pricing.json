@@ -1,12 +1,8 @@
 {
-    "generated_at": "2025-12-05T01:56:17+00:00",
+    "generated_at": "2025-12-05T15:53:42+00:00",
     "hourly_rate": 100,
     "admin_fee": 1,
-    "plan_base_prices": {
-        "P13": 1,
-        "P14": 1,
-        "P2": 1
-    },
+    "plan_base_prices": [],
     "plan_images": {
         "P1": "https:\/\/lesservicesprime.com\/wp-content\/uploads\/2020\/02\/Riviere-Beaudette_7_2D-1-min-1024x663.jpg",
         "P10": "https:\/\/lesservicesprime.com\/wp-content\/uploads\/2020\/02\/Riviere-Beaudette_7_2D-1-min-1024x663.jpg",
@@ -30,7 +26,12 @@
         "C": -20,
         "P1": 20
     },
-    "step_info_texts": [],
+    "step_info_texts": {
+        "2": "Cette étape vous permet de choisir le type de plan : plan de base ou plan détaillé sur mesure. Le plan de base est préparé à distance à partir de vos photos et de votre certificat de localisation, sans déplacement ni prise de mesures sur place, ce qui permet de réduire les coûts. Le plan détaillé sur mesure inclut une prise de mesures complète directement sur le terrain et produit un plan très précis, idéal pour les entrepreneurs et les travaux plus complexes."
+    },
+    "tooltips": {
+        "step_2": "Cette étape vous permet de choisir le type de plan : plan de base ou plan détaillé sur mesure. Le plan de base est préparé à distance à partir de vos photos et de votre certificat de localisation, sans déplacement ni prise de mesures sur place, ce qui permet de réduire les coûts. Le plan détaillé sur mesure inclut une prise de mesures complète directement sur le terrain et produit un plan très précis, idéal pour les entrepreneurs et les travaux plus complexes."
+    },
     "pricing": [
         {
             "id": 120,
