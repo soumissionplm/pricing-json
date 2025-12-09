@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-12-09T01:47:13+00:00",
+    "generated_at": "2025-12-09T01:51:30+00:00",
     "hourly_rate": 100,
     "admin_fee": 1,
     "plan_base_prices": [],
@@ -31,6 +31,7 @@
         "step_10": "Veuillez indiquer la catégorie qui décrit le mieux votre maison : petite, moyenne ou grande.\nCette information nous aide à évaluer la complexité générale du projet et à ajuster nos recommandations.\n\nUn rez-de-jardin désigne une maison dont le sous-sol possède une porte-patio donnant directement sur une terrasse.",
         "step_11": "Veuillez indiquer les aménagements <b>existants<\/b> ou <b>souhaités<\/b> à l’avant de votre propriété.\nCes informations nous permettent de comprendre la configuration actuelle, d’identifier les besoins spécifiques et d’adapter la conception en conséquence.",
         "step_12": "Veuillez indiquer les éléments <b>existants à conserver ou à modifier<\/b>, ainsi que les aménagements <b>souhaités<\/b> à l’arrière de votre propriété.\nCes informations nous aident à comprendre l’état actuel du site et à orienter la conception selon vos besoins.",
+        "step_13": "Veuillez indiquer tout autre élément existant ou souhaité sur votre propriété.\nCes informations nous permettent de compléter votre portrait d’aménagement et d’adapter la conception en fonction de vos besoins particuliers.",
         "step_14": "Choisissez les plans qui vous interessent.  Les plans obligatoires sont déjà sélectionnés.",
         "step_2": "Cette étape vous permet de choisir le type de plan : plan de base ou plan détaillé sur mesure. \nLe plan de base est préparé à distance à partir de vos photos et de votre certificat de localisation, sans déplacement ni prise de mesures sur place, ce qui permet de réduire les coûts. \nLe plan détaillé sur mesure inclut une prise de mesures complète directement sur le terrain et produit un plan très précis, idéal pour les entrepreneurs et les travaux plus complexes.",
         "step_3": "Veuillez indiquer si votre projet concerne uniquement la partie avant, uniquement la partie arrière, ou l’ensemble de votre propriété.\nCette information nous permettra d’adapter l’analyse, les plans proposés et l’estimation en fonction de la zone exacte à couvrir.",
