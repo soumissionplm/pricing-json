@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-12-09T19:08:17+00:00",
+    "generated_at": "2025-12-09T19:14:10+00:00",
     "hourly_rate": 100,
     "admin_fee": 1,
     "plan_base_prices": [],
@@ -33,7 +33,7 @@
         "step_12": "Veuillez indiquer les éléments <b>existants à conserver ou à modifier<\/b>, ainsi que les aménagements <b>souhaités<\/b> à l’arrière de votre propriété.\nCes informations nous aident à comprendre l’état actuel du site et à orienter la conception selon vos besoins.",
         "step_13": "Veuillez indiquer tout autre élément existant ou souhaité sur votre propriété.\nCes informations nous permettent de compléter votre portrait d’aménagement et d’adapter la conception en fonction de vos besoins particuliers.",
         "step_14": "Les plans essentiels requis pour votre projet ont déjà été sélectionnés automatiquement.\nVous pouvez maintenant ajouter librement tous les plans supplémentaires qui vous intéressent.\nVous pourrez ensuite ajuster le tout facilement, avec les prix mis à jour automatiquement dans un chiffrier interactif au cours des prochaines minutes.",
-        "step_2": "Cette étape vous permet de choisir le type de plan : plan de base ou plan détaillé sur mesure. <br>\nLe <b>Plan de base<\/b> est préparé à distance à partir de vos photos et de votre certificat de localisation, sans déplacement ni prise de mesures sur place, ce qui permet de réduire les coûts.<br> \nLe <b>Plan détaillé<\/b> sur mesure inclut une prise de mesures complète directement sur le terrain et produit un plan très précis, idéal pour les entrepreneurs et les travaux plus complexes.",
+        "step_2": "Cette étape vous permet de choisir le type de plan : plan de base ou plan détaillé sur mesure. <br><br>\nLe <b>Plan de base<\/b> est préparé à distance à partir de vos photos et de votre certificat de localisation, sans déplacement ni prise de mesures sur place, ce qui permet de réduire considérablement les coûts.<br> \nLe <b>Plan détaillé sur mesure<\/b> inclut une prise de mesures complète directement sur le terrain et produit un plan très précis, idéal pour les entrepreneurs et les travaux plus complexes.",
         "step_3": "Veuillez indiquer si votre projet concerne uniquement la partie avant, uniquement la partie arrière, ou l’ensemble de votre propriété.\nCette information nous permettra d’adapter l’analyse, les plans proposés et l’estimation en fonction de la zone exacte à couvrir.",
         "step_4": "Veuillez sélectionner la plage budgétaire qui correspond le mieux à vos attentes pour l’ensemble du projet.\nCette information nous permet d’orienter nos recommandations, de proposer des options cohérentes et de préparer une estimation alignée avec votre réalité financière.",
         "step_5": "Veuillez indiquer la superficie totale de votre terrain. Cette information nous permet d’évaluer correctement le contexte, d’adapter les plans proposés et de préparer une estimation précise tenant compte de l’ensemble de votre propriété.",
