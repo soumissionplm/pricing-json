@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-12-09T01:13:18+00:00",
+    "generated_at": "2025-12-09T01:25:31+00:00",
     "hourly_rate": 100,
     "admin_fee": 1,
     "plan_base_prices": [],
@@ -29,7 +29,7 @@
     "tooltips": {
         "step_1": "Bienvenue dans notre formulaire de soumission personnalisée\n\nMerci de prendre quelques minutes pour remplir ce formulaire.\nVos réponses nous permettront d’obtenir un portrait clair de votre projet afin de vous proposer le bon type de plan, un prix précis, ainsi qu’un résumé détaillé de vos besoins.\n\nCe processus a été conçu pour être simple et rapide.\nAu fur et à mesure de vos choix, notre système ajuste automatiquement les options, les étapes et les tarifs afin de créer une soumission parfaitement adaptée à votre situation.",
         "step_14": "Choisissez les plans qui vous interessent.  Les plans obligatoires sont déjà sélectionnés.",
-        "step_2": "Cette étape vous permet de choisir le type de plan : plan de base ou plan détaillé sur mesure. Le plan de base est préparé à distance à partir de vos photos et de votre certificat de localisation, sans déplacement ni prise de mesures sur place, ce qui permet de réduire les coûts. Le plan détaillé sur mesure inclut une prise de mesures complète directement sur le terrain et produit un plan très précis, idéal pour les entrepreneurs et les travaux plus complexes."
+        "step_2": "Cette étape vous permet de choisir le type de plan : plan de base ou plan détaillé sur mesure. \nLe plan de base est préparé à distance à partir de vos photos et de votre certificat de localisation, sans déplacement ni prise de mesures sur place, ce qui permet de réduire les coûts. \nLe plan détaillé sur mesure inclut une prise de mesures complète directement sur le terrain et produit un plan très précis, idéal pour les entrepreneurs et les travaux plus complexes."
     },
     "pricing": [
         {
