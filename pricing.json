@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-12-09T20:21:06+00:00",
+    "generated_at": "2025-12-09T20:29:30+00:00",
     "hourly_rate": 100,
     "admin_fee": 1,
     "plan_base_prices": [],
@@ -28,8 +28,8 @@
     },
     "tooltips": {
         "step_1": "<b>Bienvenue dans notre formulaire de soumission personnalisé<\/b><br>\n<br>\nMerci de prendre quelques minutes pour remplir ce formulaire.<br>\nVos réponses nous permettront d’obtenir un portrait clair de votre projet afin de vous proposer le bon type de plan, un prix précis, ainsi qu’un résumé détaillé de vos besoins.<br><br>\n\nCe processus a été conçu pour être simple et rapide.\nAu fur et à mesure de vos choix, notre système ajuste automatiquement les options, les étapes et les tarifs afin de créer une soumission parfaitement adaptée à votre situation.",
-        "step_10": "Veuillez indiquer la catégorie qui décrit le mieux votre maison : petite, moyenne ou grande.<br>\nCette information nous aide à évaluer la complexité générale du projet et à ajuster nos recommandations.<br>\n<br>\nUn rez-de-jardin désigne une maison dont le sous-sol possède une porte-patio donnant directement sur une terrasse.",
-        "step_11": "Veuillez indiquer les aménagements <b>existants<\/b> ou <b>souhaités<\/b> à l’avant de votre propriété.<br>\nCes informations nous permettent de comprendre la configuration actuelle, d’identifier les besoins spécifiques et d’adapter la conception en conséquence.",
+        "step_10": "Veuillez indiquer les aménagements <b>existants<\/b> ou <b>souhaités<\/b> à l’avant de votre propriété.<br>\nCes informations nous permettent de comprendre la configuration actuelle, d’identifier les besoins spécifiques et d’adapter la conception en conséquence.",
+        "step_11": "Veuillez indiquer les aménagements <b>existants<\/b> ou <b>souhaités<\/b> à l’arrière de votre propriété.<br>\nCes informations nous permettent de comprendre la configuration actuelle, d’identifier les besoins spécifiques et d’adapter la conception en conséquence.",
         "step_12": "Veuillez indiquer les éléments <b>existants à conserver ou à modifier<\/b>, ainsi que les aménagements <b>souhaités<\/b> à l’arrière de votre propriété.<br>\nCes informations nous aident à comprendre l’état actuel du site et à orienter la conception selon vos besoins.",
         "step_13": "Veuillez indiquer tout autre élément existant ou souhaité sur votre propriété.<br>\nCes informations nous permettent de compléter votre portrait d’aménagement et d’adapter la conception en fonction de vos besoins particuliers.",
         "step_14": "Les plans essentiels requis pour votre projet ont déjà été sélectionnés automatiquement.<br>\nVous pouvez maintenant ajouter librement tous les plans supplémentaires qui vous intéressent.<br>\nVous pourrez ensuite ajuster le tout facilement, avec les prix mis à jour automatiquement dans un chiffrier interactif au cours des <b>prochaines minutes<\/b>.",
@@ -40,7 +40,7 @@
         "step_6": "Veuillez indiquer si votre terrain présente une pente.<br>\nToute inclinaison perceptible peut être considérée comme une pente, puisqu’elle influence la circulation et l’évacuation de l’eau.<br>\nCette information nous permet de proposer des solutions adaptées à la gestion de l’eau sur votre propriété.",
         "step_7": "Veuillez indiquer approximativement combien d’arbres se trouvent sur votre terrain.<br>\nCe facteur influence plusieurs étapes connexes du projet, notamment l’analyse du site, la planification, ainsi que certaines considérations techniques.",
         "step_8": "Veuillez indiquer si l’une des contraintes suivantes s’applique à votre terrain.<br>\nCes éléments peuvent influencer certaines étapes du projet, notamment l’analyse du site, la planification et les recommandations techniques associées.",
-        "step_9": "Veuillez indiquer la catégorie qui décrit le mieux votre maison : petite, moyenne ou grande.<br>\nCe choix nous aide à évaluer la complexité générale du projet et à ajuster nos recommandations en fonction de la structure et de l’envergure de votre propriété."
+        "step_9": "Veuillez indiquer la catégorie qui décrit le mieux votre maison : petite, moyenne ou grande.<br>\nCette information nous aide à évaluer la complexité générale du projet et à ajuster nos recommandations.<br><br>\n<i>Un rez-de-jardin désigne une maison dont le sous-sol possède une porte-patio donnant directement sur une terrasse.<\/i>"
     },
     "pricing": [
         {
