@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-12-12T16:04:43+00:00",
+    "generated_at": "2025-12-12T16:06:37+00:00",
     "hourly_rate": 100,
     "admin_fee": 1,
     "plan_base_prices": [],
@@ -2080,6 +2080,12 @@
             "code": "2.2",
             "col_code": "D",
             "value_hours": "5.50"
+        },
+        {
+            "id": 543,
+            "code": "2.2",
+            "col_code": "P2",
+            "value_hours": "1.00"
         },
         {
             "id": 1,
