@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-12-15T15:33:32+00:00",
+    "generated_at": "2025-12-16T15:23:39+00:00",
     "hourly_rate": 100,
     "admin_fee": 1,
     "plan_base_prices": [],
@@ -49,7 +49,7 @@
         "P1": 20
     },
     "tooltips": {
-        "step_1": "<b>Bienvenue dans notre formulaire de soumission personnalisé<\/b><br>\n<br>\nMerci de prendre quelques minutes pour remplir ce formulaire.<br>\nVos réponses nous permettront d’obtenir un portrait clair de votre projet afin de vous proposer le bon type de plan, un prix précis, ainsi qu’un résumé détaillé de vos besoins.<br><br>\n\nCe processus a été conçu pour être simple et rapide.\nAu fur et à mesure de vos choix, notre système ajuste automatiquement les options, les étapes et les tarifs afin de créer une soumission parfaitement adaptée à votre situation.",
+        "step_1": "<b>Bienvenue dans notre formulaire de soumission personnalisé<\/b><br>\n<br>\nMerci de prendre quelques minutes pour remplir ce formulaire.<br>\nVos réponses nous permettront d’obtenir un portrait clair de votre projet afin de vous proposer le bon type de plan, un prix précis, ainsi qu’un résumé détaillé de vos besoins.<br><br>\n\nCe processus a été conçu pour être simple et rapide.<br>\nAu fur et à mesure de vos choix, notre système ajuste automatiquement les options, les étapes et les tarifs afin de créer une soumission parfaitement adaptée à votre situation.",
         "step_10": "Veuillez indiquer les aménagements <b>existants<\/b> ou <b>souhaités<\/b> à l’avant de votre propriété.<br>\nCes informations nous permettent de comprendre la configuration actuelle, d’identifier les besoins spécifiques et d’adapter la conception en conséquence.",
         "step_11": "Veuillez indiquer les aménagements <b>existants<\/b> ou <b>souhaités<\/b> à l’arrière de votre propriété.<br>\nCes informations nous permettent de comprendre la configuration actuelle, d’identifier les besoins spécifiques et d’adapter la conception en conséquence.",
         "step_12": "Veuillez indiquer les éléments <b>existants à conserver ou à modifier<\/b>, ainsi que les aménagements <b>souhaités<\/b> à l’arrière de votre propriété.<br>\nCes informations nous aident à comprendre l’état actuel du site et à orienter la conception selon vos besoins.",
