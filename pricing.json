@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-14T16:12:29+00:00",
+    "generated_at": "2026-01-14T16:14:29+00:00",
     "hourly_rate": 100,
     "admin_fee": 1,
     "plan_base_prices": [],
@@ -58,7 +58,7 @@
         "step_2": "Cette étape vous permet de choisir le type de plan : plan de base ou plan précis. <br><br>\nLe <b>Plan de base<\/b> est préparé à distance à partir de vos photos et de votre certificat de localisation, sans déplacement ni prise de mesures sur place, ce qui permet de réduire considérablement les coûts.<br> \nLe <b>Plan précis<\/b> inclut une prise de mesures complète directement sur le terrain et produit un plan très précis, idéal pour les entrepreneurs et les travaux plus complexes.",
         "step_3": "Veuillez indiquer si votre projet concerne uniquement la partie avant, uniquement la partie arrière, ou l’ensemble de votre propriété.<br>\nCette information nous permettra d’adapter l’analyse, les plans proposés et l’estimation en fonction de la zone exacte à couvrir.",
         "step_4": "Veuillez sélectionner la plage budgétaire qui correspond le mieux à vos attentes pour l’ensemble du projet.<br>\nCette information nous permet d’orienter nos recommandations, de proposer des options cohérentes et de préparer une estimation alignée avec votre réalité financière.",
-        "step_5": "Veuillez indiquer la superficie totale de votre terrain.<br> Cette information nous permet d’évaluer correctement le contexte, d’adapter les plans proposés et de préparer une estimation précise tenant compte de l’ensemble de votre propriété.",
+        "step_5": "Veuillez indiquer<b> la superficie totale de votre terrain<\/b>.<br> Cette information nous permet d’évaluer correctement le contexte, d’adapter les plans proposés et de préparer une estimation précise tenant compte de l’ensemble de votre propriété.",
         "step_6": "Veuillez indiquer si votre terrain présente une pente.<br>\nToute inclinaison perceptible peut être considérée comme une pente, puisqu’elle influence la circulation et l’évacuation de l’eau.<br>\nCette information nous permet de proposer des solutions adaptées à la gestion de l’eau sur votre propriété.",
         "step_7": "Veuillez indiquer combien d’arbres se trouvent sur votre terrain.<br>\nCe facteur influence plusieurs étapes connexes du projet, notamment l’analyse du site, la planification, ainsi que certaines considérations techniques.",
         "step_8": "Veuillez indiquer si l’une des contraintes suivantes s’applique à votre terrain.<br>\nCes éléments peuvent influencer certaines étapes du projet, notamment l’analyse du site, la planification et les recommandations techniques associées.",
