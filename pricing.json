@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-01-14T16:14:29+00:00",
+    "generated_at": "2026-01-14T16:16:53+00:00",
     "hourly_rate": 100,
     "admin_fee": 1,
     "plan_base_prices": [],
@@ -3243,7 +3243,7 @@
             "code": "9.1.1",
             "step": 9,
             "parent_code": "9.1",
-            "label": "-J'ai un rez-de-jardin",
+            "label": "Rez-de-jardin",
             "input_type": "c",
             "sort_order": 10
         },
@@ -3252,7 +3252,7 @@
             "code": "9.2.1",
             "step": 9,
             "parent_code": "9.2",
-            "label": "-J'ai un rez-de-jardin",
+            "label": "Rez-de-jardin",
             "input_type": "c",
             "sort_order": 10
         },
@@ -3261,7 +3261,7 @@
             "code": "9.3.1",
             "step": 9,
             "parent_code": "9.3",
-            "label": "-J'ai un rez-de-jardin",
+            "label": "Rez-de-jardin",
             "input_type": "c",
             "sort_order": 10
         },
