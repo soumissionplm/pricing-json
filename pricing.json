@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-02-18T00:47:47+00:00",
+    "generated_at": "2026-02-27T18:42:45+00:00",
     "hourly_rate": 100,
     "admin_fee": 1,
     "plan_base_prices": [],
@@ -2546,6 +2546,12 @@
             "value_hours": "1.50"
         },
         {
+            "id": 561,
+            "code": "6.1.1",
+            "col_code": "P15",
+            "value_hours": "0.00"
+        },
+        {
             "id": 56,
             "code": "6.1.2",
             "col_code": "A",
@@ -2562,6 +2568,12 @@
             "code": "6.1.2",
             "col_code": "C",
             "value_hours": "0.75"
+        },
+        {
+            "id": 558,
+            "code": "6.1.2",
+            "col_code": "P15",
+            "value_hours": "0.25"
         },
         {
             "id": 59,
@@ -2588,6 +2600,12 @@
             "value_hours": "1.00"
         },
         {
+            "id": 559,
+            "code": "6.1.3",
+            "col_code": "P15",
+            "value_hours": "0.35"
+        },
+        {
             "id": 64,
             "code": "6.1.3",
             "col_code": "P3",
@@ -2612,10 +2630,22 @@
             "value_hours": "1.50"
         },
         {
+            "id": 560,
+            "code": "6.1.4",
+            "col_code": "P15",
+            "value_hours": "0.50"
+        },
+        {
             "id": 69,
             "code": "6.1.4",
             "col_code": "P3",
             "value_hours": "1.25"
+        },
+        {
+            "id": 557,
+            "code": "6.2.1",
+            "col_code": "P15",
+            "value_hours": "0.00"
         },
         {
             "id": 70,
@@ -2634,6 +2664,12 @@
             "code": "6.2.2",
             "col_code": "C",
             "value_hours": "0.75"
+        },
+        {
+            "id": 554,
+            "code": "6.2.2",
+            "col_code": "P15",
+            "value_hours": "0.25"
         },
         {
             "id": 73,
@@ -2666,6 +2702,12 @@
             "value_hours": "1.50"
         },
         {
+            "id": 555,
+            "code": "6.2.3",
+            "col_code": "P15",
+            "value_hours": "0.35"
+        },
+        {
             "id": 78,
             "code": "6.2.3",
             "col_code": "P3",
@@ -2694,6 +2736,12 @@
             "code": "6.2.4",
             "col_code": "C",
             "value_hours": "2.00"
+        },
+        {
+            "id": 556,
+            "code": "6.2.4",
+            "col_code": "P15",
+            "value_hours": "0.50"
         },
         {
             "id": 83,
